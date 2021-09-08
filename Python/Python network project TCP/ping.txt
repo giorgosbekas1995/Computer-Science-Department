@@ -1,0 +1,949 @@
+('\r\nPinging www.google.com [216.58.205.132] with 32 bytes of data:\r\nReply from 216.58.205.132: bytes=32 time=981ms TTL=42\r\nReply from 216.58.205.132: bytes=32 time=90ms TTL=42\r\nReply from 216.58.205.132: bytes=32 time=85ms TTL=42\r\nReply from 216.58.205.132: bytes=32 time=128ms TTL=42\r\nReply from 216.58.205.132: bytes=32 time=72ms TTL=42\r\n\r\nPing statistics for 216.58.205.132:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 72ms, Maximum = 981ms, Average = 271ms\r\n', None)('\r\nPinging www.google.com [216.58.212.36] with 32 bytes of data:\r\nReply from 216.58.212.36: bytes=32 time=34ms TTL=53\r\nReply from 216.58.212.36: bytes=32 time=34ms TTL=53\r\nReply from 216.58.212.36: bytes=32 time=34ms TTL=53\r\nReply from 216.58.212.36: bytes=32 time=34ms TTL=53\r\nReply from 216.58.212.36: bytes=32 time=35ms TTL=53\r\n\r\nPing statistics for 216.58.212.36:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 34ms, Maximum = 35ms, Average = 34ms\r\n', None)('\r\nPinging www.google.com [172.217.17.164] with 32 bytes of data:\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\n\r\nPing statistics for 172.217.17.164:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 37ms, Maximum = 37ms, Average = 37ms\r\n', None)('Pinging www.google.com [172.217.17.164] with 32 bytes of data:\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=47ms TTL=52\r\nReply from 172.217.17.164: bytes=32 time=37ms TTL=52\r\n\r\nPing statistics for 172.217.17.164:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 37ms, Maximum = 47ms, Average = 39ms\r\n', None)('\r\nPinging www.google.com [172.217.169.132] with 32 bytes of data:\r\nReply from 172.217.169.132: bytes=32 time=34ms TTL=53\r\nReply from 172.217.169.132: bytes=32 time=35ms TTL=53\r\nReply from 172.217.169.132: bytes=32 time=34ms TTL=53\r\nReply from 172.217.169.132: bytes=32 time=35ms TTL=53\r\nReply from 172.217.169.132: bytes=32 time=35ms TTL=53\r\n\r\nPing statistics for 172.217.169.132:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 34ms, Maximum = 35ms, Average = 34ms\r\n', None)('\r\nPinging www.google.com [172.217.169.100] with 32 bytes of data:\r\nReply from 172.217.169.100: bytes=32 time=37ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=36ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=36ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=37ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=37ms TTL=52\r\n\r\nPing statistics for 172.217.169.100:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 36ms, Maximum = 37ms, Average = 36ms\r\n', None)('\r\nPinging www.google.gr [216.58.206.163] with 32 bytes of data:\r\nReply from 216.58.206.163: bytes=32 time=36ms TTL=52\r\nReply from 216.58.206.163: bytes=32 time=36ms TTL=52\r\nReply from 216.58.206.163: bytes=32 time=36ms TTL=52\r\nReply from 216.58.206.163: bytes=32 time=36ms TTL=52\r\nReply from 216.58.206.163: bytes=32 time=36ms TTL=52\r\n\r\nPing statistics for 216.58.206.163:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 36ms, Maximum = 36ms, Average = 36ms\r\n', None)('\r\nPinging www.google.gr [172.217.169.131] with 32 bytes of data:\r\nReply from 172.217.169.131: bytes=32 time=34ms TTL=53\r\nReply from 172.217.169.131: bytes=32 time=34ms TTL=53\r\nReply from 172.217.169.131: bytes=32 time=34ms TTL=53\r\nReply from 172.217.169.131: bytes=32 time=35ms TTL=53\r\nReply from 172.217.169.131: bytes=32 time=35ms TTL=53\r\n\r\nPing statistics for 172.217.169.131:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 34ms, Maximum = 35ms, Average = 34ms\r\n', None)('\r\nPinging www.google.com [172.217.169.100] with 32 bytes of data:\r\nReply from 172.217.169.100: bytes=32 time=37ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=36ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=36ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=37ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=37ms TTL=52\r\n\r\nPing statistics for 172.217.169.100:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 36ms, Maximum = 37ms, Average = 36ms\r\n', None)('\r\nPinging www.google.com [172.217.169.100] with 32 bytes of data:\r\nReply from 172.217.169.100: bytes=32 time=37ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=44ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=41ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=36ms TTL=52\r\nReply from 172.217.169.100: bytes=32 time=36ms TTL=52\r\n\r\nPing statistics for 172.217.169.100:\r\n    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),\r\nApproximate round trip times in milli-seconds:\r\n    Minimum = 36ms, Maximum = 44ms, Average = 38ms\r\n', None)('Ping request could not find host k. Please check the name and try again.\r\n', None)Ping request could not find host google. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+
+Pinging www.google.com [216.58.206.164] with 32 bytes of data:
+Reply from 216.58.206.164: bytes=32 time=37ms TTL=52
+Reply from 216.58.206.164: bytes=32 time=37ms TTL=52
+Reply from 216.58.206.164: bytes=32 time=37ms TTL=52
+Reply from 216.58.206.164: bytes=32 time=36ms TTL=52
+Reply from 216.58.206.164: bytes=32 time=37ms TTL=52
+
+Ping statistics for 216.58.206.164:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 37ms, Average = 36ms
+Ping request could not find host mit. Please check the name and try again.
+
+Pinging www.google.com [172.217.169.132] with 32 bytes of data:
+Reply from 172.217.169.132: bytes=32 time=38ms TTL=53
+Reply from 172.217.169.132: bytes=32 time=330ms TTL=53
+Reply from 172.217.169.132: bytes=32 time=34ms TTL=53
+Reply from 172.217.169.132: bytes=32 time=34ms TTL=53
+Reply from 172.217.169.132: bytes=32 time=41ms TTL=53
+
+Ping statistics for 172.217.169.132:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 330ms, Average = 95ms
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=53ms TTL=55
+Reply from 88.221.225.220: bytes=32 time=53ms TTL=55
+Reply from 88.221.225.220: bytes=32 time=53ms TTL=55
+Reply from 88.221.225.220: bytes=32 time=53ms TTL=55
+Reply from 88.221.225.220: bytes=32 time=53ms TTL=55
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 53ms, Maximum = 53ms, Average = 53ms
+
+Pinging cider.caida.org [192.172.226.123] with 32 bytes of data:
+Reply from 192.172.226.123: bytes=32 time=218ms TTL=41
+Reply from 192.172.226.123: bytes=32 time=218ms TTL=41
+Reply from 192.172.226.123: bytes=32 time=218ms TTL=41
+Reply from 192.172.226.123: bytes=32 time=218ms TTL=41
+Reply from 192.172.226.123: bytes=32 time=218ms TTL=41
+
+Ping statistics for 192.172.226.123:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 218ms, Maximum = 218ms, Average = 218ms
+
+Pinging gtmlivelive-eu-c-1nlbwwwcouk-17e0f31403454351.elb.eu-central-1.amazonaws.com [35.156.134.252] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 35.156.134.252:
+    Packets: Sent = 5, Received = 0, Lost = 5 (100% loss),
+
+Pinging www.inspire.edu.gr [139.91.152.72] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 139.91.152.72:
+    Packets: Sent = 5, Received = 0, Lost = 5 (100% loss),
+
+Pinging gaia-proxy.anu.edu.au [130.56.66.152] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 130.56.66.152:
+    Packets: Sent = 5, Received = 0, Lost = 5 (100% loss),
+
+Pinging gtmlivelive-eu-c-1nlbwwwcouk-17e0f31403454351.elb.eu-central-1.amazonaws.com [18.195.22.212] with 32 bytes of data:
+Request timed out.
+
+Ping statistics for 18.195.22.212:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=63ms TTL=55
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 63ms, Maximum = 63ms, Average = 63ms
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=53ms TTL=55
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 53ms, Maximum = 53ms, Average = 53ms
+
+Pinging gtmlivelive-eu-c-1nlbwwwcouk-17e0f31403454351.elb.eu-central-1.amazonaws.com [18.195.22.212] with 32 bytes of data:
+Request timed out.
+
+Ping statistics for 18.195.22.212:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
+Ping request could not find host k. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host k. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+Ping request could not find host k. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host k. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+
+Pinging gtmlivelive-eu-c-1nlbwwwcouk-17e0f31403454351.elb.eu-central-1.amazonaws.com [18.195.22.212] with 32 bytes of data:
+Request timed out.
+
+Ping statistics for 18.195.22.212:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=55ms TTL=54
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 55ms, Average = 55ms
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=71ms TTL=54
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 71ms, Maximum = 71ms, Average = 71ms
+Ping request could not find host m. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host k. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=55ms TTL=54
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 55ms, Average = 55ms
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host google. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host kk. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=55ms TTL=54
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 55ms, Average = 55ms
+Ping request could not find host m
+. Please check the name and try again.
+Ping request could not find host m. Please check the name and try again.
+Ping request could not find host mit. Please check the name and try again.
+Ping request could not find host k
+. Please check the name and try again.
+
+Pinging www.google.com [216.58.212.36] with 32 bytes of data:
+Reply from 216.58.212.36: bytes=32 time=35ms TTL=53
+
+Ping statistics for 216.58.212.36:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 35ms, Maximum = 35ms, Average = 35ms
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=55ms TTL=54
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 55ms, Average = 55ms
+
+Pinging www.google.com [172.217.17.196] with 32 bytes of data:
+Reply from 172.217.17.196: bytes=32 time=37ms TTL=52
+Reply from 172.217.17.196: bytes=32 time=36ms TTL=52
+Reply from 172.217.17.196: bytes=32 time=37ms TTL=52
+Reply from 172.217.17.196: bytes=32 time=36ms TTL=52
+Reply from 172.217.17.196: bytes=32 time=37ms TTL=52
+
+Ping statistics for 172.217.17.196:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 37ms, Average = 36ms
+Ping request could not find host k
+. Please check the name and try again.
+
+Pinging www.google.com [172.217.169.196] with 32 bytes of data:
+Reply from 172.217.169.196: bytes=32 time=36ms TTL=52
+Reply from 172.217.169.196: bytes=32 time=36ms TTL=52
+Reply from 172.217.169.196: bytes=32 time=37ms TTL=52
+Reply from 172.217.169.196: bytes=32 time=37ms TTL=52
+Reply from 172.217.169.196: bytes=32 time=36ms TTL=52
+
+Ping statistics for 172.217.169.196:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 37ms, Average = 36ms
+
+Pinging www.google.com [172.217.169.196] with 32 bytes of data:
+Reply from 172.217.169.196: bytes=32 time=36ms TTL=52
+
+Ping statistics for 172.217.169.196:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 36ms, Average = 36ms
+
+Pinging www.google.com [216.58.212.4] with 32 bytes of data:
+Reply from 216.58.212.4: bytes=32 time=37ms TTL=52
+
+Ping statistics for 216.58.212.4:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 37ms, Maximum = 37ms, Average = 37ms
+
+Pinging www.google.com [216.58.212.4] with 32 bytes of data:
+Reply from 216.58.212.4: bytes=32 time=36ms TTL=52
+
+Ping statistics for 216.58.212.4:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 36ms, Average = 36ms
+
+Pinging www.google.com [216.58.206.196] with 32 bytes of data:
+Reply from 216.58.206.196: bytes=32 time=38ms TTL=52
+
+Ping statistics for 216.58.206.196:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 38ms, Maximum = 38ms, Average = 38ms
+
+Pinging www.google.com [216.58.212.4] with 32 bytes of data:
+Reply from 216.58.212.4: bytes=32 time=37ms TTL=52
+
+Ping statistics for 216.58.212.4:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 37ms, Maximum = 37ms, Average = 37ms
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=55ms TTL=54
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 55ms, Average = 55ms
+
+Pinging e9566.dscb.akamaiedge.net [88.221.225.220] with 32 bytes of data:
+Reply from 88.221.225.220: bytes=32 time=55ms TTL=54
+
+Ping statistics for 88.221.225.220:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 55ms, Average = 55ms
+
+Pinging www.google.com [172.217.169.100] with 32 bytes of data:
+Reply from 172.217.169.100: bytes=32 time=35ms TTL=53
+
+Ping statistics for 172.217.169.100:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 35ms, Maximum = 35ms, Average = 35ms
+
+Pinging www.google.com [172.217.169.100] with 32 bytes of data:
+Reply from 172.217.169.100: bytes=32 time=35ms TTL=53
+
+Ping statistics for 172.217.169.100:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 35ms, Maximum = 35ms, Average = 35ms
+Ping request could not find host google
+. Please check the name and try again.
+Ping request could not find host google
+. Please check the name and try again.
+
+Pinging www.google.com [172.217.169.100] with 32 bytes of data:
+Reply from 172.217.169.100: bytes=32 time=35ms TTL=53
+
+Ping statistics for 172.217.169.100:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 35ms, Maximum = 35ms, Average = 35ms
+
+Pinging www.google.com [172.217.169.100] with 32 bytes of data:
+Reply from 172.217.169.100: bytes=32 time=35ms TTL=53
+
+Ping statistics for 172.217.169.100:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 35ms, Maximum = 35ms, Average = 35ms
+PING www.google.com (216.58.198.4) 56(84) bytes of data.
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=1 ttl=42 time=71.2 ms
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=2 ttl=42 time=71.1 ms
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=3 ttl=42 time=71.2 ms
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=4 ttl=42 time=71.1 ms
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=5 ttl=42 time=71.2 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3996ms
+rtt min/avg/max/mdev = 71.194/71.211/71.236/0.239 ms
+PING www.google.com (216.58.198.4) 56(84) bytes of data.
+PING www.google.com (216.58.198.4) 56(84) bytes of data.
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=1 ttl=42 time=71.2 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 71.212/71.212/71.212/0.000 ms
+PING www.google.com (216.58.198.4) 56(84) bytes of data.
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=1 ttl=42 time=69.0 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 69.016/69.016/69.016/0.000 ms
+PING www.google.com (216.58.198.4) 56(84) bytes of data.
+64 bytes from mil04s03-in-f4.1e100.net (216.58.198.4): icmp_seq=1 ttl=42 time=69.0 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 69.036/69.036/69.036/0.000 ms
+PING www.google.com (216.58.205.196) 56(84) bytes of data.
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=1 ttl=41 time=74.9 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=2 ttl=41 time=74.9 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=3 ttl=41 time=75.1 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=4 ttl=41 time=75.0 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=5 ttl=41 time=74.9 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 74.958/75.016/75.147/0.352 ms
+PING www.google.com (216.58.205.196) 56(84) bytes of data.
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=1 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=2 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=3 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=4 ttl=41 time=75.4 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=5 ttl=41 time=75.3 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 75.338/75.371/75.454/0.303 ms
+PING www.google.com (216.58.205.196) 56(84) bytes of data.
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=1 ttl=41 time=74.9 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=2 ttl=41 time=75.0 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=3 ttl=41 time=74.9 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=4 ttl=41 time=74.9 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=5 ttl=41 time=74.9 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 74.912/74.956/75.003/0.247 ms
+PING www.google.com (216.58.205.196) 56(84) bytes of data.
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=1 ttl=41 time=75.4 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=2 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=3 ttl=41 time=75.4 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=4 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=5 ttl=41 time=75.4 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 75.378/75.406/75.435/0.301 ms
+PING www.google.com (216.58.205.196) 56(84) bytes of data.
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=1 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=2 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=3 ttl=41 time=75.4 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=4 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f4.1e100.net (216.58.205.196): icmp_seq=5 ttl=41 time=75.3 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 75.337/75.380/75.422/0.175 ms
+PING www.google.com (216.58.205.196) 56(84) bytes of data.
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=1 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=2 ttl=41 time=75.4 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=3 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=4 ttl=41 time=75.3 ms
+64 bytes from mil04s29-in-f196.1e100.net (216.58.205.196): icmp_seq=5 ttl=41 time=75.3 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 75.319/75.373/75.418/0.302 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.9 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=76.1 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 75.547/75.773/76.135/0.411 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3998ms
+rtt min/avg/max/mdev = 75.622/75.668/75.759/0.250 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 75.651/75.692/75.725/0.247 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 75.630/75.702/75.778/0.250 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 75.605/75.664/75.773/0.352 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.1 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.2 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.1 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.1 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.1 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 75.150/75.177/75.200/0.016 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 75.554/75.626/75.683/0.250 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 75.595/75.649/75.709/0.349 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.8 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 75.622/75.715/75.807/0.353 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=42 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=42 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=42 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=42 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=42 time=75.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3998ms
+rtt min/avg/max/mdev = 75.600/75.647/75.731/0.045 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 75.630/75.709/75.768/0.057 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=75.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=75.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=75.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 75.544/75.607/75.667/0.045 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.590/71.639/71.673/0.034 ms
+PING e9566.dscb.akamaiedge.net (104.86.234.56) 56(84) bytes of data.
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=1 ttl=43 time=98.7 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=2 ttl=43 time=98.7 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=3 ttl=43 time=98.9 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=4 ttl=43 time=98.9 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=5 ttl=43 time=98.6 ms
+
+--- e9566.dscb.akamaiedge.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 98.674/98.802/98.943/0.410 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3998ms
+rtt min/avg/max/mdev = 71.612/71.662/71.709/0.241 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 71.530/71.662/71.739/0.301 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 71.549/71.623/71.703/0.245 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 71.538/71.580/71.632/0.339 ms
+PING e9566.dscb.akamaiedge.net (104.86.234.56) 56(84) bytes of data.
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=1 ttl=43 time=93.1 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=2 ttl=43 time=92.8 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=3 ttl=43 time=93.0 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=4 ttl=43 time=93.1 ms
+64 bytes from a104-86-234-56.deploy.static.akamaitechnologies.com (104.86.234.56): icmp_seq=5 ttl=43 time=92.9 ms
+
+--- e9566.dscb.akamaiedge.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3996ms
+rtt min/avg/max/mdev = 92.848/93.034/93.191/0.355 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.8 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 71.540/71.709/71.857/0.263 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 71.591/71.626/71.698/0.173 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 71.556/71.629/71.691/0.175 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 71.565/71.688/71.789/0.090 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 71.569/71.610/71.646/0.241 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 71.543/71.624/71.716/0.065 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 71.558/71.614/71.673/0.341 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 71.555/71.612/71.697/0.245 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 71.561/71.626/71.711/0.056 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.8 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 71.583/71.663/71.837/0.091 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 71.513/71.580/71.633/0.243 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.549/71.649/71.771/0.092 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.9 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 71.622/71.740/71.951/0.357 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.8 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 71.557/71.642/71.878/0.358 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 71.577/71.658/71.797/0.302 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 71.551/71.676/71.733/0.248 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 71.567/71.650/71.742/0.343 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=72.1 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.582/71.741/72.108/0.386 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3998ms
+rtt min/avg/max/mdev = 71.619/71.705/71.777/0.342 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.9 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 71.566/71.666/71.927/0.132 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.546/71.631/71.726/0.181 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 71.541/71.572/71.619/0.026 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.7 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.525/71.580/71.735/0.251 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 71.503/71.534/71.588/0.028 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 71.534/71.595/71.696/0.178 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 71.524/71.579/71.644/0.047 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.574/71.607/71.629/0.022 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.4 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 71.482/71.517/71.537/0.293 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.537/71.556/71.576/0.239 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.4 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.4 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 71.483/71.513/71.567/0.339 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3998ms
+rtt min/avg/max/mdev = 71.533/71.575/71.606/0.340 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.6 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3996ms
+rtt min/avg/max/mdev = 71.509/71.610/71.710/0.067 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.4 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.7 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f4.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 71.487/71.587/71.751/0.091 ms
+PING www.google.com (216.58.205.164) 56(84) bytes of data.
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=1 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=2 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=3 ttl=41 time=71.6 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=4 ttl=41 time=71.5 ms
+64 bytes from mil04s28-in-f164.1e100.net (216.58.205.164): icmp_seq=5 ttl=41 time=71.5 ms
+
+--- www.google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 71.520/71.573/71.622/0.173 ms

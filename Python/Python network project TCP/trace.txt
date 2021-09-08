@@ -1,0 +1,1437 @@
+
+Tracing route to www.google.com [216.58.205.132]
+over a maximum of 30 hops:
+
+  1    17 ms    21 ms    79 ms  147.52.126.1 
+  2   130 ms    52 ms   178 ms  147.52.1.185 
+  3    17 ms    12 ms    16 ms  uoc-voutes-1-gw.eier.access-link.grnet.gr [62.217.96.232] 
+  4    91 ms    21 ms    13 ms  grnet-ias-geant-gw.mx2.ath.gr.geant.net [83.97.88.69] 
+  5    40 ms    35 ms    36 ms  ae2.mx1.mil2.it.geant.net [62.40.98.150] 
+  6    33 ms    32 ms    48 ms  72.14.203.32 
+  7   142 ms   100 ms    83 ms  108.170.245.65 
+  8    87 ms    75 ms   108 ms  216.239.42.15 
+  9   103 ms    80 ms   109 ms  mil04s27-in-f4.1e100.net [216.58.205.132] 
+
+Trace complete.
+
+Tracing route to www.google.com [216.58.205.132]
+over a maximum of 30 hops:
+
+  1     4 ms     5 ms    11 ms  147.52.126.1 
+  2     1 ms     1 ms     3 ms  147.52.1.185 
+  3   136 ms   328 ms     9 ms  uoc-voutes-1-gw.eier.access-link.grnet.gr [62.217.96.232] 
+  4   120 ms    11 ms    16 ms  grnet-ias-geant-gw.mx2.ath.gr.geant.net [83.97.88.69] 
+  5    36 ms    33 ms    40 ms  ae2.mx1.mil2.it.geant.net [62.40.98.150] 
+  6    99 ms   100 ms    48 ms  72.14.203.32 
+  7   258 ms    81 ms    77 ms  108.170.245.65 
+  8    84 ms   115 ms    78 ms  216.239.42.15 
+  9    73 ms   106 ms    82 ms  mil04s27-in-f4.1e100.net [216.58.205.132] 
+
+Trace complete.
+
+Tracing route to www.google.com [216.58.205.132]
+over a maximum of 30 hops:
+
+  1     4 ms     6 ms     2 ms  147.52.126.1 
+  2    11 ms     4 ms     4 ms  147.52.1.185 
+  3    12 ms    18 ms    10 ms  uoc-voutes-1-gw.eier.access-link.grnet.gr [62.217.96.232] 
+  4     9 ms    28 ms    36 ms  grnet-ias-geant-gw.mx2.ath.gr.geant.net [83.97.88.69] 
+  5    33 ms    41 ms    33 ms  ae2.mx1.mil2.it.geant.net [62.40.98.150] 
+  6    33 ms    34 ms    35 ms  72.14.203.32 
+  7    85 ms    82 ms    78 ms  108.170.245.65 
+  8   322 ms   101 ms   162 ms  216.239.42.15 
+  9   110 ms   156 ms   360 ms  mil04s27-in-f4.1e100.net [216.58.205.132] 
+
+Trace complete.
+
+Tracing route to www.google.com [216.58.212.36]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms    <1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    39 ms    27 ms    23 ms  62.38.40.49 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    25 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    25 ms  69.103.89.195.in-addr.arpa [195.89.103.69] 
+  8    29 ms    24 ms    25 ms  70.2.2.195.in-addr.arpa [195.2.2.70] 
+  9    34 ms    35 ms    35 ms  195.2.21.57 
+ 10    37 ms    37 ms    37 ms  72.14.208.246 
+ 11     *        *        *     Request timed out.
+ 12    38 ms    37 ms    37 ms  209.85.246.70 
+ 13    35 ms    34 ms    35 ms  216.239.54.7 
+ 14    34 ms    34 ms    34 ms  sof02s18-in-f36.1e100.net [216.58.212.36] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.17.164]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    25 ms    26 ms    25 ms  62.38.40.49 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    25 ms    25 ms  62.38.93.221 
+  7    25 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    24 ms    24 ms    25 ms  70.2.2.195.in-addr.arpa [195.2.2.70] 
+  9    35 ms    35 ms    34 ms  195.2.21.57 
+ 10    36 ms    36 ms    37 ms  72.14.208.246 
+ 11     *        *        *     Request timed out.
+ 12    35 ms    35 ms    34 ms  216.239.46.220 
+ 13    35 ms    34 ms    35 ms  209.85.142.223 
+ 14    36 ms    36 ms    36 ms  sof02s21-in-f4.1e100.net [172.217.17.164] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.17.164]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2  
+Tracing route to www.google.com [172.217.169.132]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.49 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    25 ms    24 ms    24 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    25 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    36 ms    36 ms    37 ms  195.2.21.57 
+ 10    35 ms    35 ms    35 ms  google-gw.sof.cw.net [195.2.14.106] 
+ 11    37 ms    37 ms    37 ms  108.170.250.161 
+ 12    35 ms    36 ms    35 ms  216.239.46.221 
+ 13    35 ms    34 ms    35 ms  sof02s32-in-f4.1e100.net [172.217.169.132] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.169.100]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    25 ms    25 ms    22 ms  62.38.40.49 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    25 ms    24 ms    24 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    37 ms    36 ms  195.2.21.57 
+ 10    34 ms    37 ms    35 ms  google-gw.sof.cw.net [195.2.14.106] 
+ 11    36 ms    37 ms    36 ms  108.170.250.161 
+ 12    38 ms    37 ms    37 ms  216.239.49.199 
+ 13    37 ms    37 ms    37 ms  sof02s31-in-f4.1e100.net [172.217.169.100] 
+
+Trace complete.
+
+Tracing route to www.google.gr [216.58.206.163]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    25 ms    23 ms    24 ms  62.38.40.89 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  69.103.89.195.in-addr.arpa [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  70.2.2.195.in-addr.arpa [195.2.2.70] 
+  9    36 ms    37 ms    36 ms  195.2.21.57 
+ 10    35 ms    34 ms    34 ms  72.14.218.54 
+ 11     *        *        *     Request timed out.
+ 12    36 ms    35 ms    35 ms  216.239.54.6 
+ 13    35 ms    34 ms    35 ms  209.85.142.55 
+ 14    36 ms    36 ms    37 ms  sof02s27-in-f3.1e100.net [216.58.206.163] 
+
+Trace complete.
+
+Tracing route to www.google.gr [172.217.169.131]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    47 ms    52 ms    50 ms  62.38.40.89 
+  4    55 ms    56 ms    56 ms  62.38.37.86 
+  5    26 ms    33 ms    48 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  69.103.89.195.in-addr.arpa [195.89.103.69] 
+  8    24 ms    26 ms    24 ms  70.2.2.195.in-addr.arpa [195.2.2.70] 
+  9    37 ms    36 ms    39 ms  195.2.21.57 
+ 10    36 ms    37 ms    37 ms  72.14.208.246 
+ 11     *        *        *     Request timed out.
+ 12    37 ms    36 ms    37 ms  209.85.142.62 
+ 13    37 ms    37 ms    37 ms  216.239.46.221 
+ 14    34 ms    35 ms    35 ms  sof02s32-in-f3.1e100.net [172.217.169.131] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.169.100]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.49 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  69.103.89.195.in-addr.arpa [195.89.103.69] 
+  8    27 ms    25 ms    24 ms  70.2.2.195.in-addr.arpa [195.2.2.70] 
+  9    37 ms    36 ms    37 ms  195.2.21.57 
+ 10    37 ms    36 ms    36 ms  106.14.2.195.in-addr.arpa [195.2.14.106] 
+ 11    35 ms    35 ms    35 ms  108.170.250.161 
+ 12    36 ms    36 ms    36 ms  216.239.49.199 
+ 13    36 ms    36 ms    37 ms  sof02s31-in-f4.1e100.net [172.217.169.100] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.169.100]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    25 ms    23 ms  62.38.40.49 
+  4    24 ms    25 ms    24 ms  62.38.37.86 
+  5    25 ms    24 ms    24 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    25 ms  69.103.89.195.in-addr.arpa [195.89.103.69] 
+  8    24 ms    25 ms    25 ms  70.2.2.195.in-addr.arpa [195.2.2.70] 
+  9    36 ms    37 ms    36 ms  195.2.21.57 
+ 10    37 ms    38 ms    39 ms  106.14.2.195.in-addr.arpa [195.2.14.106] 
+ 11    34 ms    35 ms    35 ms  108.170.250.161 
+ 12    36 ms    35 ms    36 ms  216.239.49.199 
+ 13    36 ms    38 ms    43 ms  sof02s31-in-f4.1e100.net [172.217.169.100] 
+
+Trace complete.
+Unable to resolve target system name k.
+Unable to resolve target system name google.
+Unable to resolve target system name google.
+
+Tracing route to www.google.com [216.58.206.164]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    24 ms    36 ms    25 ms  62.38.40.89 
+  4    25 ms    25 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    53 ms    51 ms    53 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    24 ms    25 ms    25 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    36 ms    34 ms    35 ms  195.2.21.57 
+ 10    65 ms    34 ms    35 ms  72.14.218.54 
+ 11     *        *        *     Request timed out.
+ 12    37 ms    36 ms    37 ms  216.239.54.0 
+ 13    35 ms    35 ms    34 ms  108.170.238.171 
+ 14    37 ms    36 ms    37 ms  sof02s27-in-f4.1e100.net [216.58.206.164] 
+
+Trace complete.
+Unable to resolve target system name mit.
+
+Tracing route to www.google.com [172.217.169.132]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.89 
+  4    25 ms    25 ms    24 ms  62.38.37.86 
+  5    24 ms    25 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    33 ms    61 ms    47 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    26 ms    25 ms    25 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    35 ms    34 ms    35 ms  195.2.21.57 
+ 10    35 ms    35 ms    36 ms  google-gw.sof.cw.net [195.2.14.106] 
+ 11    40 ms    41 ms    38 ms  108.170.250.177 
+ 12    64 ms    38 ms    37 ms  216.239.47.153 
+ 13    35 ms    35 ms    35 ms  sof02s32-in-f4.1e100.net [172.217.169.132] 
+
+Trace complete.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    24 ms  62.38.40.89 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    25 ms  62.38.97.150 
+  6    24 ms    24 ms    25 ms  62.38.93.221 
+  7    24 ms    25 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    53 ms    57 ms    53 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    42 ms    60 ms    37 ms  195.2.21.57 
+ 10    53 ms    53 ms    54 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11  3342 ms   652 ms     *     as20940-gw-mlu.cw.net [195.2.19.18] 
+ 12    52 ms    54 ms    65 ms  a88-221-225-220.deploy.static.akamaitechnologies.com [88.221.225.220] 
+
+Trace complete.
+
+Tracing route to cider.caida.org [192.172.226.123]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.49 
+  4    24 ms    25 ms    25 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    25 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8   143 ms   151 ms   160 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9   143 ms   143 ms   143 ms  195.2.21.57 
+ 10   143 ms   142 ms   143 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11   147 ms   143 ms   157 ms  ae0-xcr1.mlk.cw.net [195.2.25.6] 
+ 12   144 ms   145 ms   160 ms  ae0-xcr1.ptl.cw.net [195.2.25.109] 
+ 13   140 ms   142 ms   140 ms  et-7-1-0-xcr1.nyh.cw.net [195.2.24.241] 
+ 14   142 ms   142 ms   143 ms  ae13-xcr2.nyk.cw.net [195.2.25.69] 
+ 15   142 ms   142 ms   142 ms  nyk-b6-link.telia.net [213.248.100.45] 
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18   213 ms   213 ms   213 ms  CENIC.ear1.SanJose1.Level3.net [4.15.122.46] 
+ 19   212 ms   213 ms   213 ms  dc-svl-agg8--svl-agg4-100ge-1.cenic.net [137.164.11.29] 
+ 20   217 ms   217 ms   217 ms  dc-lax-agg8--svl-agg8-100ge-1.cenic.net [137.164.11.0] 
+ 21   214 ms   215 ms   213 ms  dc-lax-agg6--lax-agg8-100ge-3.cenic.net [137.164.11.34] 
+ 22   217 ms   217 ms   218 ms  dc-tus-agg3--lax-agg6-100ge-1.cenic.net [137.164.11.23] 
+ 23   216 ms   217 ms   217 ms  dc-sdg-agg4--tus-agg3-100ge.cenic.net [137.164.11.9] 
+ 24   218 ms   217 ms   218 ms  dc-sdsc-100ge--sdg-agg4.cenic.net [137.164.23.43] 
+ 25   223 ms   218 ms   218 ms  medusa-mx960.sdsc.edu [192.12.207.46] 
+ 26   267 ms   223 ms   219 ms  cider.caida.org [192.172.226.123] 
+
+Trace complete.
+
+Tracing route to gtmlivelive-eu-c-1nlbwwwcouk-17e0f31403454351.elb.eu-central-1.amazonaws.com [18.195.22.212]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *     
+Tracing route to gaia-proxy.anu.edu.au [130.56.66.152]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    24 ms    23 ms    24 ms  62.38.40.89 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8   200 ms   199 ms   199 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9   200 ms   202 ms   199 ms  195.2.21.57 
+ 10   199 ms   231 ms   201 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11    63 ms    64 ms    66 ms  ae0-xcr1.mar.cw.net [195.2.10.86] 
+ 12   199 ms   199 ms   198 ms  ae33-xcr1.sng.cw.net [195.2.2.58] 
+ 13   287 ms   286 ms   286 ms  ae-8.a01.sngpsi07.sg.bb.gin.ntt.net [116.51.27.21] 
+ 14   340 ms   303 ms   303 ms  ae-5.r01.sngpsi07.sg.bb.gin.ntt.net [129.250.2.241] 
+ 15   295 ms   287 ms   287 ms  ae-2.a01.sngpsi03.sg.bb.gin.ntt.net [129.250.7.85] 
+ 16   348 ms   347 ms   347 ms  xe-0-0-6-2.a01.sngpsi03.sg.ce.gin.ntt.net [116.51.27.146] 
+ 17   325 ms   326 ms   326 ms  et-0-1-0.pe1.actn.act.aarnet.net.au [113.197.15.52] 
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    24 ms    23 ms  62.38.40.89 
+  4    24 ms    24 ms    25 ms  62.38.37.86 
+  5    25 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    53 ms    55 ms    54 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    37 ms    37 ms    44 ms  195.2.21.57 
+ 10    53 ms    53 ms    52 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11   263 ms   217 ms   202 ms  as20940-gw-mlu.cw.net [195.2.19.18] 
+ 12    53 ms    52 ms    52 ms  a88-221-225-220.deploy.static.akamaitechnologies.com [88.221.225.220] 
+
+Trace complete.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    24 ms    23 ms    23 ms  62.38.40.89 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    25 ms    24 ms    24 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    25 ms    24 ms    23 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    53 ms    53 ms    53 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    40 ms    36 ms    37 ms  195.2.21.57 
+ 10    52 ms    53 ms    53 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11   501 ms   222 ms   217 ms  as20940-gw-mlu.cw.net [195.2.19.18] 
+ 12    53 ms    53 ms    53 ms  a88-221-225-220.deploy.static.akamaitechnologies.com [88.221.225.220] 
+
+Trace complete.
+
+Tracing route to gtmlivelive-eu-c-1nlbwwwcouk-17e0f31403454351.elb.eu-central-1.amazonaws.com [18.195.22.212]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    27 ms    24 ms  62.38.40.89 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    25 ms    24 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    54 ms    54 ms    53 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    37 ms    38 ms    46 ms  195.2.21.57 
+ 10    54 ms    59 ms    54 ms  195.2.27.174 
+ 11    57 ms    57 ms    57 ms  52.46.167.114 
+ 12    58 ms    61 ms    62 ms  52.93.38.102 
+ 13    54 ms    53 ms    53 ms  52.93.38.109 
+ 14    65 ms    66 ms    64 ms  54.239.44.47 
+ 15    65 ms    65 ms    65 ms  52.93.128.141 
+ 16     *        *        *     Request timed out.
+ 17    66 ms    65 ms    66 ms  54.239.107.86 
+ 18    63 ms    64 ms    63 ms  52.93.111.168 
+ 19    69 ms    67 ms    66 ms  52.93.111.177 
+ 20    67 ms    68 ms    88 ms  54.239.107.183 
+ 21    65 ms    65 ms    64 ms  54.239.5.174 
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+Unable to resolve target system name k.
+Unable to resolve target system name mit.
+Unable to resolve target system name k.
+Unable to resolve target system name mit.
+Unable to resolve target system name google.
+Unable to resolve target system name k.
+Unable to resolve target system name mit.
+Unable to resolve target system name google.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name google.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name google.
+Unable to resolve target system name google.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name k.
+Unable to resolve target system name mit.
+
+Tracing route to gtmlivelive-eu-c-1nlbwwwcouk-17e0f31403454351.elb.eu-central-1.amazonaws.com [35.156.134.252]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    24 ms    22 ms    25 ms  62.38.40.89 
+  4    25 ms    24 ms    25 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    33 ms    24 ms    25 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    52 ms    52 ms    52 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    37 ms    36 ms  195.2.21.57 
+ 10    59 ms    60 ms    67 ms  195.2.27.174 
+ 11    60 ms    60 ms    61 ms  52.46.167.114 
+ 12    62 ms    67 ms    70 ms  52.93.38.22 
+ 13    57 ms    57 ms    56 ms  52.93.38.31 
+ 14    65 ms    66 ms    65 ms  54.239.44.49 
+ 15    65 ms    65 ms    64 ms  52.93.128.139 
+ 16     *        *        *     Request timed out.
+ 17    63 ms    64 ms    72 ms  54.239.107.38 
+ 18    65 ms    65 ms    64 ms  52.93.111.132 
+ 19    66 ms    65 ms    65 ms  52.93.111.133 
+ 20    66 ms    66 ms    66 ms  54.239.107.49 
+ 21    65 ms    65 ms    66 ms  54.239.5.170 
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *     
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    46 ms    41 ms    45 ms  62.38.40.89 
+  4    64 ms    64 ms    65 ms  62.38.37.86 
+  5    25 ms    24 ms    25 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    30 ms    27 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    55 ms    55 ms    55 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    38 ms    39 ms  195.2.21.57 
+ 10    60 ms    53 ms    53 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11     *        *        *     Request timed out.
+ 12    55 ms    54 ms    55 ms  220.225.221.88.in-addr.arpa [88.221.225.220] 
+
+Trace complete.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    28 ms    30 ms    32 ms  62.38.40.89 
+  4    61 ms    25 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    29 ms    24 ms    25 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    55 ms    55 ms    56 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    37 ms    37 ms  195.2.21.57 
+ 10    53 ms    53 ms    52 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11     *        *        *     Request timed out.
+ 12    54 ms    54 ms    54 ms  220.225.221.88.in-addr.arpa [88.221.225.220] 
+
+Trace complete.
+Unable to resolve target system name m.
+Unable to resolve target system name mit.
+Unable to resolve target system name google.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name k.
+Unable to resolve target system name mit.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.89 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    25 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    25 ms    25 ms  62.38.93.221 
+  7    25 ms    24 ms    25 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    57 ms    55 ms    55 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    37 ms    38 ms  195.2.21.57 
+ 10    52 ms    52 ms    52 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11   209 ms   211 ms   220 ms  as20940-gw-mlu.cw.net [195.2.19.18] 
+ 12    54 ms    54 ms    54 ms  220.225.221.88.in-addr.arpa [88.221.225.220] 
+
+Trace complete.
+Unable to resolve target system name mit.
+Unable to resolve target system name google.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name kk.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+Unable to resolve target system name mit.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    51 ms    53 ms    65 ms  62.38.40.89 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    25 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    25 ms    24 ms    25 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    72 ms    68 ms    70 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    37 ms    37 ms  195.2.21.57 
+ 10    53 ms    53 ms    53 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11   250 ms   220 ms   215 ms  as20940-gw-mlu.cw.net [195.2.19.18] 
+ 12    54 ms    55 ms    59 ms  220.225.221.88.in-addr.arpa [88.221.225.220] 
+
+Trace complete.
+Unable to resolve target system name m
+.
+Unable to resolve target system name m.
+Unable to resolve target system name mit.
+Unable to resolve target system name k
+.
+
+Tracing route to www.google.com [216.58.212.36]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    22 ms  62.38.40.89 
+  4    25 ms    25 ms    25 ms  62.38.37.86 
+  5    25 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    62 ms    62 ms    58 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    35 ms    34 ms    34 ms  195.2.21.57 
+ 10    35 ms    35 ms    34 ms  72.14.208.246 
+ 11     *        *        *     Request timed out.
+ 12    37 ms    36 ms    36 ms  209.85.143.114 
+ 13    69 ms    77 ms    68 ms  216.239.54.5 
+ 14    35 ms    34 ms    35 ms  sof02s18-in-f4.1e100.net [216.58.212.36] 
+
+Trace complete.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2  
+Tracing route to www.google.com [172.217.17.196]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    22 ms    24 ms  62.38.40.77 
+  4    24 ms    25 ms    25 ms  62.38.37.86 
+  5    24 ms    24 ms    23 ms  62.38.97.150 
+  6    25 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    37 ms    40 ms    38 ms  195.2.21.57 
+ 10    35 ms    35 ms    34 ms  72.14.208.246 
+ 11     *        *        *     Request timed out.
+ 12    34 ms    35 ms    35 ms  216.239.46.220 
+ 13    34 ms    36 ms    35 ms  209.85.143.115 
+ 14    37 ms    36 ms    36 ms  sof02s22-in-f196.1e100.net [172.217.17.196] 
+
+Trace complete.
+Unable to resolve target system name k
+.
+
+Tracing route to www.google.com [172.217.169.196]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    25 ms    23 ms    26 ms  62.38.40.77 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    25 ms  62.38.97.150 
+  6    27 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    25 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    24 ms    24 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    40 ms    35 ms    35 ms  195.2.21.57 
+ 10    38 ms    37 ms    38 ms  google-gw.sof.cw.net [195.2.14.106] 
+ 11    36 ms    35 ms    36 ms  108.170.250.177 
+ 12    35 ms    35 ms    36 ms  108.170.236.33 
+ 13    37 ms    36 ms    36 ms  sof02s34-in-f4.1e100.net [172.217.169.196] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.169.196]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    26 ms  62.38.40.77 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    28 ms    25 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    34 ms    34 ms    35 ms  195.2.21.57 
+ 10    36 ms    36 ms    37 ms  google-gw.sof.cw.net [195.2.14.106] 
+ 11    35 ms    36 ms    35 ms  108.170.250.177 
+ 12    35 ms    37 ms    36 ms  108.170.236.33 
+ 13    36 ms    37 ms    36 ms  sof02s34-in-f4.1e100.net [172.217.169.196] 
+
+Trace complete.
+
+Tracing route to www.google.com [216.58.212.4]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+
+Tracing route to www.google.com [216.58.212.4]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    25 ms    32 ms    26 ms  62.38.40.77 
+  4    25 ms    25 ms    25 ms  62.38.37.86 
+  5    25 ms    25 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    25 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    35 ms    35 ms    35 ms  195.2.21.57 
+ 10    34 ms    35 ms    36 ms  72.14.208.246 
+ 11     *        *        *     Request timed out.
+ 12    38 ms    38 ms    37 ms  216.239.54.6 
+ 13    35 ms    35 ms    35 ms  216.239.54.3 
+ 14    37 ms    36 ms    36 ms  sof02s17-in-f4.1e100.net [216.58.212.4] 
+
+Trace complete.
+
+Tracing route to www.google.com [216.58.206.196]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.77 
+  4    25 ms    25 ms    25 ms  62.38.37.86 
+  5    24 ms    25 ms    25 ms  62.38.97.150 
+  6    24 ms    24 ms    24 ms  62.38.93.221 
+  7    25 ms    25 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    34 ms    34 ms    35 ms  195.2.21.57 
+ 10    37 ms    36 ms    37 ms  google-gw.sof.cw.net [195.2.14.106] 
+ 11    35 ms    35 ms    35 ms  108.170.250.161 
+ 12    37 ms    37 ms    37 ms  209.85.142.63 
+ 13    36 ms    37 ms    37 ms  sof02s28-in-f4.1e100.net [216.58.206.196] 
+
+Trace complete.
+
+Tracing route to www.google.com [216.58.212.4]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    26 ms    24 ms    25 ms  62.38.40.77 
+  4    25 ms    24 ms    25 ms  62.38.37.86 
+  5    25 ms    25 ms    24 ms  62.38.97.150 
+  6    25 ms    24 ms    25 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    35 ms    34 ms    35 ms  195.2.21.57 
+ 10    35 ms    34 ms    36 ms  72.14.208.246 
+ 11     *        *        *     Request timed out.
+ 12    37 ms    37 ms    39 ms  216.239.54.6 
+ 13    35 ms    35 ms    35 ms  216.239.54.3 
+ 14    37 ms    36 ms    37 ms  4.212.58.216.in-addr.arpa [216.58.212.4] 
+
+Trace complete.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.77 
+  4    25 ms    25 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    25 ms  62.38.97.150 
+  6    25 ms    24 ms    25 ms  62.38.93.221 
+  7    24 ms    24 ms    25 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    63 ms    57 ms    55 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    38 ms    46 ms  195.2.21.57 
+ 10    53 ms    52 ms    52 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11    63 ms    63 ms    58 ms  as20940-gw-mlu.cw.net [195.2.19.18] 
+ 12    54 ms    54 ms    54 ms  a88-221-225-220.deploy.static.akamaitechnologies.com [88.221.225.220] 
+
+Trace complete.
+
+Tracing route to e9566.dscb.akamaiedge.net [88.221.225.220]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    22 ms  62.38.40.77 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    25 ms    25 ms    24 ms  62.38.97.150 
+  6    24 ms    25 ms    24 ms  62.38.93.221 
+  7    25 ms    24 ms    25 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    58 ms    56 ms    55 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    37 ms    37 ms    37 ms  195.2.21.57 
+ 10    53 ms    52 ms    53 ms  ae50.0-xcr1.mlu.cw.net [195.2.16.1] 
+ 11    55 ms    59 ms    56 ms  as20940-gw-mlu.cw.net [195.2.19.18] 
+ 12    55 ms    54 ms    57 ms  a88-221-225-220.deploy.static.akamaitechnologies.com [88.221.225.220] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.169.100]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    28 ms    23 ms    24 ms  62.38.40.77 
+  4    25 ms    24 ms    24 ms  62.38.37.86 
+  5    25 ms    25 ms    25 ms  62.38.97.150 
+  6    25 ms    24 ms    25 ms  62.38.93.221 
+  7    25 ms    24 ms    23 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    25 ms    25 ms  dtag.dus.cw.net [195.2.2.70] 
+  9    34 ms    34 ms    35 ms  195.2.21.57 
+ 10    36 ms    36 ms    36 ms  72.14.218.54 
+ 11     *        *        *     Request timed out.
+ 12    34 ms    36 ms    34 ms  108.170.238.170 
+ 13    35 ms    36 ms    36 ms  216.239.49.199 
+ 14    35 ms    35 ms    34 ms  sof02s31-in-f4.1e100.net [172.217.169.100] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.169.100]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    26 ms    26 ms  62.38.40.77 
+  4    24 ms    24 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    24 ms  62.38.97.150 
+  6    24 ms    24 ms    25 ms  62.38.93.221 
+  7    31 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    26 ms    25 ms    25 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    35 ms    37 ms    34 ms  195.2.21.57 
+ 10    37 ms    37 ms    37 ms  72.14.218.54 
+ 11     *        *        *     Request timed out.
+ 12    36 ms    35 ms    35 ms  108.170.238.170 
+ 13    35 ms    35 ms    35 ms  216.239.49.199 
+ 14    34 ms    35 ms    35 ms  sof02s31-in-f4.1e100.net [172.217.169.100] 
+
+Trace complete.
+Unable to resolve target system name google
+.
+Unable to resolve target system name google
+.
+
+Tracing route to www.google.com [172.217.169.100]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms    <1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    25 ms    39 ms    23 ms  62.38.40.77 
+  4    25 ms    25 ms    24 ms  62.38.37.86 
+  5    24 ms    24 ms    25 ms  62.38.97.150 
+  6    24 ms    24 ms    26 ms  62.38.93.221 
+  7    24 ms    24 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    32 ms    26 ms    26 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    36 ms    35 ms    35 ms  195.2.21.57 
+ 10    36 ms    35 ms    36 ms  72.14.218.54 
+ 11     *        *        *     Request timed out.
+ 12    50 ms    35 ms    34 ms  108.170.238.170 
+ 13    37 ms    37 ms    37 ms  216.239.49.199 
+ 14    35 ms    35 ms    35 ms  sof02s31-in-f4.1e100.net [172.217.169.100] 
+
+Trace complete.
+
+Tracing route to www.google.com [172.217.169.100]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms     1 ms  192.168.2.1 [192.168.2.1] 
+  2     *        *        *     Request timed out.
+  3    23 ms    23 ms    23 ms  62.38.40.77 
+  4    25 ms    24 ms    25 ms  62.38.37.86 
+  5    25 ms    26 ms    26 ms  62.38.97.150 
+  6    25 ms    24 ms    25 ms  62.38.93.221 
+  7    23 ms    25 ms    24 ms  ae3-100-ucr.ata.cw.net [195.89.103.69] 
+  8    25 ms    26 ms    25 ms  ae4-ucr1.atm.cw.net [195.2.2.70] 
+  9    34 ms    35 ms    35 ms  195.2.21.57 
+ 10    35 ms    35 ms    35 ms  72.14.218.54 
+ 11     *        *        *     Request timed out.
+ 12    34 ms    35 ms    35 ms  108.170.238.170 
+ 13    37 ms    37 ms    38 ms  216.239.49.199 
+ 14    35 ms    35 ms    35 ms  sof02s31-in-f4.1e100.net [172.217.169.100] 
+
+Trace complete.
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.704 ms 147.52.206.50 (147.52.206.50)  2.053 ms  2.051 ms
+ 2  147.52.2.6 (147.52.2.6)  0.964 ms  0.951 ms  0.923 ms
+ 3  10.78.140.1 (10.78.140.1)  1.515 ms  1.638 ms  1.656 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.973 ms  7.977 ms  8.084 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.983 ms  8.831 ms  8.950 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.134 ms  38.193 ms  38.026 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.493 ms  37.425 ms  38.613 ms
+ 8  72.14.203.32 (72.14.203.32)  39.574 ms  39.582 ms  37.739 ms
+ 9  108.170.245.81 (108.170.245.81)  78.948 ms  78.754 ms  78.713 ms
+10  216.239.42.21 (216.239.42.21)  75.612 ms 216.239.42.23 (216.239.42.23)  75.621 ms 216.239.42.21 (216.239.42.21)  75.363 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.261 ms  74.933 ms  74.933 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.908 ms  1.239 ms  1.234 ms
+ 2  147.52.2.4 (147.52.2.4)  1.090 ms 147.52.2.6 (147.52.2.6)  0.828 ms 147.52.2.4 (147.52.2.4)  1.075 ms
+ 3  10.78.140.1 (10.78.140.1)  1.588 ms  1.588 ms  1.343 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.028 ms  8.090 ms  8.042 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.184 ms  9.078 ms  9.109 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  43.494 ms  41.348 ms  41.433 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  48.357 ms  48.420 ms  48.424 ms
+ 8  72.14.203.32 (72.14.203.32)  38.072 ms  37.894 ms  37.528 ms
+ 9  108.170.245.65 (108.170.245.65)  79.920 ms  80.016 ms  79.927 ms
+10  216.239.42.21 (216.239.42.21)  75.865 ms 216.239.42.23 (216.239.42.23)  75.295 ms  75.207 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.456 ms  75.595 ms  75.657 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.827 ms  1.240 ms 147.52.206.51 (147.52.206.51)  0.777 ms
+ 2  147.52.2.4 (147.52.2.4)  1.116 ms 147.52.2.6 (147.52.2.6)  1.005 ms  1.039 ms
+ 3  10.78.140.1 (10.78.140.1)  1.618 ms  1.824 ms  1.530 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.134 ms  8.095 ms  8.021 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.485 ms  9.503 ms  9.451 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.457 ms  38.639 ms  38.552 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.562 ms  37.435 ms  37.850 ms
+ 8  72.14.203.32 (72.14.203.32)  45.969 ms  37.502 ms  45.867 ms
+ 9  108.170.245.65 (108.170.245.65)  81.446 ms 108.170.245.81 (108.170.245.81)  89.788 ms 108.170.245.65 (108.170.245.65)  79.829 ms
+10  216.239.42.21 (216.239.42.21)  75.571 ms  75.411 ms  75.132 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.058 ms  75.563 ms  75.309 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.908 ms 147.52.206.50 (147.52.206.50)  0.902 ms 147.52.206.51 (147.52.206.51)  1.215 ms
+ 2  147.52.2.4 (147.52.2.4)  1.135 ms 147.52.2.6 (147.52.2.6)  0.914 ms  1.026 ms
+ 3  10.78.140.1 (10.78.140.1)  1.589 ms  1.722 ms  1.564 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.991 ms  8.006 ms  26.944 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.934 ms  8.983 ms  8.931 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  39.682 ms  38.422 ms  38.345 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.504 ms  38.016 ms  37.353 ms
+ 8  72.14.203.32 (72.14.203.32)  37.624 ms  37.867 ms  37.409 ms
+ 9  108.170.245.81 (108.170.245.81)  78.551 ms 108.170.245.65 (108.170.245.65)  79.477 ms  79.370 ms
+10  216.239.42.23 (216.239.42.23)  74.844 ms  75.062 ms 216.239.42.21 (216.239.42.21)  75.477 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.571 ms  74.944 ms  75.564 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  * 147.52.206.50 (147.52.206.50)  0.858 ms *
+ 2  147.52.2.4 (147.52.2.4)  1.976 ms  2.046 ms 147.52.2.6 (147.52.2.6)  1.972 ms
+ 3  10.78.140.1 (10.78.140.1)  1.417 ms  1.446 ms  1.557 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.989 ms  7.991 ms  8.090 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.051 ms  9.079 ms  9.073 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.320 ms  38.001 ms  38.006 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.735 ms  37.617 ms  37.715 ms
+ 8  72.14.203.32 (72.14.203.32)  41.989 ms  41.905 ms  38.038 ms
+ 9  108.170.245.65 (108.170.245.65)  79.007 ms  78.729 ms 108.170.245.81 (108.170.245.81)  79.232 ms
+10  216.239.42.23 (216.239.42.23)  75.222 ms 216.239.42.21 (216.239.42.21)  76.039 ms 216.239.42.23 (216.239.42.23)  74.980 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.595 ms  74.917 ms  75.308 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.923 ms 147.52.206.50 (147.52.206.50)  0.820 ms 147.52.206.51 (147.52.206.51)  1.495 ms
+ 2  147.52.2.4 (147.52.2.4)  1.231 ms  1.242 ms 147.52.2.6 (147.52.2.6)  0.848 ms
+ 3  10.78.140.1 (10.78.140.1)  2.174 ms  2.362 ms  2.369 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.912 ms  8.812 ms  8.838 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.963 ms  9.115 ms  9.036 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  42.228 ms  38.638 ms  38.562 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.533 ms  38.704 ms  38.606 ms
+ 8  72.14.203.32 (72.14.203.32)  38.063 ms  37.990 ms  37.917 ms
+ 9  108.170.245.65 (108.170.245.65)  79.599 ms 108.170.245.81 (108.170.245.81)  79.496 ms  79.452 ms
+10  216.239.42.23 (216.239.42.23)  75.245 ms 216.239.42.21 (216.239.42.21)  75.934 ms 216.239.42.23 (216.239.42.23)  75.323 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.463 ms  75.282 ms  75.129 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.822 ms  1.237 ms  1.220 ms
+ 2  147.52.2.4 (147.52.2.4)  1.193 ms  1.192 ms 147.52.2.6 (147.52.2.6)  0.956 ms
+ 3  10.78.140.1 (10.78.140.1)  1.335 ms  1.471 ms  1.569 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.076 ms  8.097 ms  8.327 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.977 ms  8.862 ms  8.941 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.307 ms  41.513 ms  37.959 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.979 ms  37.878 ms  37.512 ms
+ 8  72.14.203.32 (72.14.203.32)  38.123 ms  38.549 ms  38.504 ms
+ 9  108.170.245.65 (108.170.245.65)  79.024 ms 108.170.245.81 (108.170.245.81)  78.628 ms 108.170.245.65 (108.170.245.65)  79.156 ms
+10  216.239.42.23 (216.239.42.23)  75.185 ms 216.239.42.21 (216.239.42.21)  75.607 ms 216.239.42.23 (216.239.42.23)  74.674 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  74.900 ms  75.498 ms  75.712 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.832 ms  1.034 ms  1.039 ms
+ 2  147.52.2.6 (147.52.2.6)  0.894 ms 147.52.2.4 (147.52.2.4)  0.996 ms  1.205 ms
+ 3  10.78.140.1 (10.78.140.1)  1.529 ms  1.426 ms  1.612 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.211 ms  8.083 ms  8.163 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.975 ms  8.879 ms  8.949 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.000 ms  38.071 ms  38.458 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.051 ms  37.823 ms  38.088 ms
+ 8  72.14.203.32 (72.14.203.32)  38.370 ms  38.116 ms  38.434 ms
+ 9  108.170.245.65 (108.170.245.65)  79.425 ms 108.170.245.81 (108.170.245.81)  79.147 ms 108.170.245.65 (108.170.245.65)  78.962 ms
+10  216.239.42.23 (216.239.42.23)  75.268 ms 216.239.42.21 (216.239.42.21)  75.453 ms  75.068 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.386 ms  75.382 ms  75.112 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  4.481 ms  4.471 ms  4.447 ms
+ 2  147.52.2.6 (147.52.2.6)  0.892 ms 147.52.2.4 (147.52.2.4)  1.095 ms 147.52.2.6 (147.52.2.6)  1.004 ms
+ 3  10.78.140.1 (10.78.140.1)  1.535 ms  1.291 ms  1.422 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.146 ms  8.122 ms  8.015 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.985 ms  9.968 ms  9.873 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.129 ms  38.090 ms  37.860 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.447 ms  38.014 ms  37.401 ms
+ 8  72.14.203.32 (72.14.203.32)  37.929 ms  37.985 ms  38.040 ms
+ 9  108.170.245.65 (108.170.245.65)  78.761 ms  78.837 ms 108.170.245.81 (108.170.245.81)  78.490 ms
+10  216.239.42.23 (216.239.42.23)  75.289 ms 216.239.42.21 (216.239.42.21)  76.105 ms  75.468 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.121 ms  75.309 ms  75.365 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.901 ms 147.52.206.51 (147.52.206.51)  0.900 ms  0.873 ms
+ 2  147.52.2.4 (147.52.2.4)  1.033 ms  1.184 ms  1.195 ms
+ 3  10.78.140.1 (10.78.140.1)  1.557 ms  1.376 ms  1.629 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.036 ms  8.040 ms  8.164 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.003 ms  8.963 ms  8.876 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  39.861 ms  39.485 ms  39.368 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  39.812 ms  37.970 ms  37.831 ms
+ 8  72.14.203.32 (72.14.203.32)  38.503 ms  38.129 ms  38.060 ms
+ 9  108.170.245.65 (108.170.245.65)  79.250 ms 108.170.245.81 (108.170.245.81)  79.238 ms  79.110 ms
+10  216.239.42.21 (216.239.42.21)  75.467 ms  74.972 ms 216.239.42.23 (216.239.42.23)  75.347 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.393 ms  75.043 ms  75.103 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  * * 147.52.206.50 (147.52.206.50)  0.917 ms
+ 2  147.52.2.6 (147.52.2.6)  0.925 ms 147.52.2.4 (147.52.2.4)  1.069 ms  1.208 ms
+ 3  10.78.140.1 (10.78.140.1)  1.364 ms  1.670 ms  1.469 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.113 ms  7.868 ms  8.002 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.016 ms  9.058 ms  9.083 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  46.657 ms  46.085 ms  46.043 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.245 ms  38.138 ms  37.924 ms
+ 8  72.14.203.32 (72.14.203.32)  38.221 ms  38.119 ms  37.897 ms
+ 9  108.170.245.65 (108.170.245.65)  79.096 ms 108.170.245.81 (108.170.245.81)  78.482 ms 108.170.245.65 (108.170.245.65)  78.652 ms
+10  216.239.42.23 (216.239.42.23)  74.754 ms 216.239.42.21 (216.239.42.21)  74.893 ms 216.239.42.23 (216.239.42.23)  75.288 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.501 ms  75.268 ms  75.396 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.739 ms 147.52.206.50 (147.52.206.50)  0.941 ms  1.435 ms
+ 2  147.52.2.6 (147.52.2.6)  0.927 ms  1.039 ms 147.52.2.4 (147.52.2.4)  1.212 ms
+ 3  10.78.140.1 (10.78.140.1)  1.510 ms  1.341 ms  1.588 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.025 ms  8.048 ms  8.135 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  10.067 ms  10.068 ms  10.061 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.088 ms  38.006 ms  38.180 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.922 ms  38.112 ms  34.003 ms
+ 8  72.14.203.32 (72.14.203.32)  34.734 ms  39.529 ms  39.548 ms
+ 9  108.170.245.65 (108.170.245.65)  76.029 ms  72.196 ms  75.881 ms
+10  216.239.42.21 (216.239.42.21)  74.359 ms  74.366 ms  78.350 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  74.282 ms  71.454 ms  75.342 ms
+traceroute to www.mit.edu (104.86.234.56), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.806 ms  1.192 ms 147.52.206.50 (147.52.206.50)  0.995 ms
+ 2  147.52.2.6 (147.52.2.6)  0.921 ms  0.964 ms 147.52.2.4 (147.52.2.4)  1.152 ms
+ 3  10.78.140.1 (10.78.140.1)  12.758 ms  12.780 ms  12.882 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.951 ms  7.952 ms  7.947 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.854 ms  8.770 ms  8.780 ms
+ 6  ae23.mx1.vie.at.geant.net (62.40.98.147)  40.802 ms  40.528 ms  46.353 ms
+ 7  win-b4-link.telia.net (80.239.135.54)  46.046 ms  46.220 ms  40.354 ms
+ 8  win-bb2-link.telia.net (62.115.112.198)  34.991 ms  34.865 ms  34.647 ms
+ 9  hbg-bb1-link.telia.net (62.115.139.208)  53.987 ms  59.865 ms hbg-bb4-link.telia.net (62.115.119.50)  53.838 ms
+10  adm-bb3-link.telia.net (213.155.136.160)  65.781 ms adm-bb3-link.telia.net (80.91.252.42)  65.681 ms adm-bb4-link.telia.net (80.91.246.200)  66.513 ms
+11  adm-b5-link.telia.net (62.115.140.179)  72.516 ms adm-b5-link.telia.net (62.115.140.119)  60.696 ms adm-b5-link.telia.net (62.115.140.117)  60.277 ms
+12  turktelekom-ic-143692-adm-b5.c.telia.net (80.239.193.202)  66.948 ms  60.740 ms  61.277 ms
+13  34-acibadem-xrs-t2-1---302-ams-col-1.statik.turktelekom.com.tr (212.156.102.113)  99.466 ms 00-gayrettepe-xrs-t2-2---302-ams-col-1.statik.turktelekom.com.tr (212.156.102.70)  91.848 ms 34-acibadem-xrs-t2-1---302-ams-col-1.statik.turktelekom.com.tr (212.156.102.113)  98.938 ms
+14  81.212.206.168.static.turktelekom.com.tr (81.212.206.168)  98.946 ms 00-atakoy-xrs-t2-2---00-gayrettepe-xrs-t2-2.statik.turktelekom.com.tr (212.156.252.238)  98.542 ms 81.212.206.168.static.turktelekom.com.tr (81.212.206.168)  98.803 ms
+15  81.212.199.167.static.turktelekom.com.tr (81.212.199.167)  99.001 ms 00-atakoy-t3-7---00-atakoy-xrs-t2-1.statik.turktelekom.com.tr (212.156.120.131)  92.851 ms 81.212.199.167.static.turktelekom.com.tr (81.212.199.167)  99.000 ms
+16  212.156.128.170.static.turktelekom.com.tr (212.156.128.170)  105.407 ms  105.320 ms  100.364 ms
+17  static-98-159-92-77.sadecehosting.net (77.92.159.98)  115.221 ms  111.333 ms  111.262 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.844 ms 147.52.206.50 (147.52.206.50)  0.713 ms 147.52.206.51 (147.52.206.51)  1.161 ms
+ 2  147.52.2.4 (147.52.2.4)  6.625 ms  6.627 ms  6.608 ms
+ 3  10.78.140.1 (10.78.140.1)  1.501 ms  1.513 ms  1.716 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.992 ms  8.030 ms  8.011 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.779 ms  8.825 ms  8.831 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.102 ms  37.870 ms  37.968 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  39.993 ms  39.649 ms  33.825 ms
+ 8  72.14.203.32 (72.14.203.32)  37.848 ms  37.449 ms  38.106 ms
+ 9  108.170.245.81 (108.170.245.81)  75.736 ms 108.170.245.65 (108.170.245.65)  75.908 ms  72.007 ms
+10  216.239.42.23 (216.239.42.23)  78.086 ms  74.188 ms 216.239.42.21 (216.239.42.21)  74.230 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.417 ms  75.610 ms  71.486 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.866 ms 147.52.206.50 (147.52.206.50)  0.876 ms 147.52.206.51 (147.52.206.51)  1.085 ms
+ 2  147.52.2.6 (147.52.2.6)  0.903 ms  1.071 ms  1.095 ms
+ 3  10.78.140.1 (10.78.140.1)  1.499 ms  1.523 ms  1.607 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.347 ms  8.368 ms  8.351 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.788 ms  8.803 ms  8.995 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  39.308 ms  38.091 ms  38.089 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.139 ms  37.980 ms  38.021 ms
+ 8  72.14.203.32 (72.14.203.32)  39.753 ms  56.818 ms  56.876 ms
+ 9  108.170.245.81 (108.170.245.81)  76.106 ms  75.802 ms  71.883 ms
+10  216.239.42.23 (216.239.42.23)  78.121 ms  73.976 ms 216.239.42.21 (216.239.42.21)  78.331 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  71.696 ms  75.511 ms  75.709 ms
+['traceroute', 'to', 'www.google.com', '(216.58.205.164),', '30', 'hops', 'max,', '60', 'byte', 'packets']['1', '*', '*', '147.52.206.50', '(147.52.206.50)', '0.795', 'ms']['2', '147.52.2.6', '(147.52.2.6)', '0.946', 'ms', '2.113', 'ms', '2.148', 'ms']['3', '10.78.140.1', '(10.78.140.1)', '1.476', 'ms', '1.389', 'ms', '1.594', 'ms']['4', 'uoc-voutes-3-gw.kolettir.access-link.grnet.gr', '(62.217.96.226)', '8.303', 'ms', '8.322', 'ms', '7.904', 'ms']['5', 'grnet-ias-geant-gw.mx1.ath2.gr.geant.net', '(83.97.88.65)', '8.947', 'ms', '8.832', 'ms', '8.951', 'ms']['6', 'ae0.mx2.ath.gr.geant.net', '(62.40.98.140)', '38.142', 'ms', '38.097', 'ms', '38.149', 'ms']['7', 'ae2.mx1.mil2.it.geant.net', '(62.40.98.150)', '38.140', 'ms', '38.177', 'ms', '38.092', 'ms']['8', '72.14.203.32', '(72.14.203.32)', '38.754', 'ms', '33.859', 'ms', '38.172', 'ms']['9', '108.170.245.65', '(108.170.245.65)', '76.721', 'ms', '108.170.245.81', '(108.170.245.81)', '71.835', 'ms', '108.170.245.65', '(108.170.245.65)', '72.664', 'ms']['10', '216.239.42.23', '(216.239.42.23)', '78.182', 'ms', '216.239.42.21', '(216.239.42.21)', '78.917', 'ms', '216.239.42.23', '(216.239.42.23)', '78.209', 'ms']['11', 'mil04s28-in-f164.1e100.net', '(216.58.205.164)', '78.443', 'ms', '71.386', 'ms', '75.503', 'ms'][]['traceroute', 'to', 'www.google.com', '(216.58.205.164),', '30', 'hops', 'max,', '60', 'byte', 'packets']['1', '147.52.206.50', '(147.52.206.50)', '0.812', 'ms', '147.52.206.51', '(147.52.206.51)', '2.829', 'ms', '147.52.206.50', '(147.52.206.50)', '1.101', 'ms']['2', '147.52.2.4', '(147.52.2.4)', '1.110', 'ms', '147.52.2.6', '(147.52.2.6)', '0.883', 'ms', '147.52.2.4', '(147.52.2.4)', '1.188', 'ms']['3', '10.78.140.1', '(10.78.140.1)', '1.327', 'ms', '1.572', 'ms', '1.323', 'ms']['4', 'uoc-voutes-3-gw.kolettir.access-link.grnet.gr', '(62.217.96.226)', '7.984', 'ms', '8.010', 'ms', '8.110', 'ms']['5', 'grnet-ias-geant-gw.mx1.ath2.gr.geant.net', '(83.97.88.65)', '8.951', 'ms', '8.941', 'ms', '9.004', 'ms']['6', 'ae0.mx2.ath.gr.geant.net', '(62.40.98.140)', '38.336', 'ms', '37.939', 'ms', '37.986', 'ms']['7', 'ae2.mx1.mil2.it.geant.net', '(62.40.98.150)', '37.864', 'ms', '37.917', 'ms', '37.931', 'ms']['8', '72.14.203.32', '(72.14.203.32)', '38.184', 'ms', '39.186', 'ms', '34.157', 'ms']['9', '108.170.245.65', '(108.170.245.65)', '76.785', 'ms', '108.170.245.81', '(108.170.245.81)', '76.277', 'ms', '108.170.245.65', '(108.170.245.65)', '77.044', 'ms']['10', '216.239.42.21', '(216.239.42.21)', '78.444', 'ms', '216.239.42.23', '(216.239.42.23)', '78.175', 'ms', '78.220', 'ms']['11', 'mil04s28-in-f164.1e100.net', '(216.58.205.164)', '74.338', 'ms', '75.465', 'ms', '75.689', 'ms'][]['traceroute', 'to', 'www.mit.edu', '(104.86.234.56),', '30', 'hops', 'max,', '60', 'byte', 'packets']['1', '147.52.206.50', '(147.52.206.50)', '0.729', 'ms', '1.291', 'ms', '147.52.206.51', '(147.52.206.51)', '4.293', 'ms']['2', '147.52.2.4', '(147.52.2.4)', '1.062', 'ms', '1.235', 'ms', '1.236', 'ms']['3', '10.78.140.1', '(10.78.140.1)', '1.809', 'ms', '1.954', 'ms', '1.979', 'ms']['4', 'uoc-voutes-3-gw.kolettir.access-link.grnet.gr', '(62.217.96.226)', '8.140', 'ms', '8.025', 'ms', '8.037', 'ms']['5', 'grnet-ias-geant-gw.mx1.ath2.gr.geant.net', '(83.97.88.65)', '8.783', 'ms', '8.947', 'ms', '8.980', 'ms']['6', 'ae23.mx1.vie.at.geant.net', '(62.40.98.147)', '40.837', 'ms', '46.573', 'ms', '46.576', 'ms']['7', 'win-b4-link.telia.net', '(80.239.135.54)', '40.522', 'ms', '45.969', 'ms', '39.981', 'ms']['8', 'win-bb2-link.telia.net', '(62.115.112.198)', '35.815', 'ms', '40.575', 'ms', 'prag-bb1-link.telia.net', '(62.115.113.68)', '40.501', 'ms']['9', 'hbg-bb1-link.telia.net', '(62.115.119.66)', '81.280', 'ms', 'hbg-bb4-link.telia.net', '(62.115.119.50)', '65.380', 'ms', '65.647', 'ms']['10', 'adm-bb3-link.telia.net', '(62.115.112.12)', '60.137', 'ms', 'adm-bb4-link.telia.net', '(80.91.246.200)', '72.343', 'ms', 'adm-bb3-link.telia.net', '(213.155.136.160)', '59.975', 'ms']['11', 'adm-b5-link.telia.net', '(62.115.140.173)', '60.857', 'ms', 'adm-b5-link.telia.net', '(62.115.140.157)', '65.707', 'ms', 'adm-b5-link.telia.net', '(80.91.253.171)', '66.237', 'ms']['12', 'turktelekom-ic-143692-adm-b5.c.telia.net', '(80.239.193.202)', '60.579', 'ms', '66.912', 'ms', '60.894', 'ms']['13', '34-acibadem-xrs-t2-1---302-ams-col-1.statik.turktelekom.com.tr', '(212.156.102.113)', '99.587', 'ms', '00-gayrettepe-xrs-t2-2---302-ams-col-1.statik.turktelekom.com.tr', '(212.156.102.70)', '97.232', 'ms', '103.258', 'ms']['14', '00-atakoy-xrs-t2-2---00-gayrettepe-xrs-t2-2.statik.turktelekom.com.tr', '(212.156.252.238)', '92.830', 'ms', '00-atakoy-xrs-t2-2---34-acibadem-xrs-t2-1.statik.turktelekom.com.tr', '(212.156.251.140)', '102.307', 'ms', '81.212.206.168.static.turktelekom.com.tr', '(81.212.206.168)', '92.785', 'ms']['15', '81.212.199.167.static.turktelekom.com.tr', '(81.212.199.167)', '93.389', 'ms', '99.306', 'ms', '00-atakoy-t3-7---00-atakoy-xrs-t2-1.statik.turktelekom.com.tr', '(212.156.120.131)', '104.561', 'ms']['16', '212.156.128.170.static.turktelekom.com.tr', '(212.156.128.170)', '94.173', 'ms', '94.404', 'ms', '94.049', 'ms']['17', 'static-98-159-92-77.sadecehosting.net', '(77.92.159.98)', '111.997', 'ms', '111.897', 'ms', '111.940', 'ms']['18', '*', '*', '*']['19', '*', '*', '*']['20', '*', '*', '*']['21', '*', '*', '*']['22', '*', '*', '*']['23', '*', '*', '*']['24', '*', '*', '*']['25', '*', '*', '*']['26', '*', '*', '*']['27', '*', '*', '*']['28', '*', '*', '*']['29', '*', '*', '*']['30', '*', '*', '*'][]traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.907 ms 147.52.206.51 (147.52.206.51)  2.097 ms  2.105 ms
+ 2  147.52.2.4 (147.52.2.4)  1.099 ms  1.243 ms  1.248 ms
+ 3  10.78.140.1 (10.78.140.1)  1.345 ms  1.530 ms  1.535 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.978 ms  8.037 ms  7.984 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.887 ms  9.086 ms  9.014 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.617 ms  38.459 ms  38.981 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.919 ms  37.955 ms  38.201 ms
+ 8  72.14.203.32 (72.14.203.32)  38.622 ms  38.383 ms  38.414 ms
+ 9  108.170.245.81 (108.170.245.81)  75.678 ms 108.170.245.65 (108.170.245.65)  76.005 ms  75.964 ms
+10  216.239.42.21 (216.239.42.21)  78.499 ms  78.413 ms  78.453 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.587 ms  75.621 ms  71.682 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  1.092 ms  1.221 ms  1.209 ms
+ 2  147.52.2.6 (147.52.2.6)  0.881 ms 147.52.2.4 (147.52.2.4)  1.078 ms 147.52.2.6 (147.52.2.6)  0.942 ms
+ 3  10.78.140.1 (10.78.140.1)  1.404 ms  1.423 ms  1.522 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.154 ms  8.187 ms  8.131 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.954 ms  8.828 ms  8.900 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.756 ms  38.847 ms  38.714 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.579 ms  37.823 ms  34.511 ms
+ 8  72.14.203.32 (72.14.203.32)  34.171 ms  34.076 ms  34.121 ms
+ 9  108.170.245.65 (108.170.245.65)  75.936 ms  76.020 ms 108.170.245.81 (108.170.245.81)  76.002 ms
+10  216.239.42.21 (216.239.42.21)  74.463 ms 216.239.42.23 (216.239.42.23)  78.028 ms  74.061 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.465 ms  78.496 ms  78.371 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  * * 147.52.206.51 (147.52.206.51)  0.949 ms
+ 2  147.52.2.4 (147.52.2.4)  1.131 ms 147.52.2.6 (147.52.2.6)  0.939 ms 147.52.2.4 (147.52.2.4)  1.105 ms
+ 3  10.78.140.1 (10.78.140.1)  1.526 ms  1.551 ms  1.751 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.266 ms  8.315 ms  8.263 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.138 ms  9.056 ms  9.119 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.754 ms  38.761 ms  38.753 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  33.929 ms  37.932 ms  38.897 ms
+ 8  72.14.203.32 (72.14.203.32)  38.091 ms  38.041 ms  34.568 ms
+ 9  108.170.245.81 (108.170.245.81)  75.609 ms 108.170.245.65 (108.170.245.65)  75.946 ms 108.170.245.81 (108.170.245.81)  72.148 ms
+10  216.239.42.21 (216.239.42.21)  78.796 ms  74.713 ms  74.905 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  78.183 ms  75.387 ms  75.552 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.906 ms 147.52.206.51 (147.52.206.51)  0.803 ms 147.52.206.50 (147.52.206.50)  1.196 ms
+ 2  147.52.2.4 (147.52.2.4)  1.137 ms 147.52.2.6 (147.52.2.6)  0.919 ms  1.025 ms
+ 3  10.78.140.1 (10.78.140.1)  1.338 ms  1.477 ms  1.317 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.190 ms  8.162 ms  8.059 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.827 ms  8.879 ms  8.880 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.676 ms  38.650 ms  38.668 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.156 ms  38.267 ms  38.264 ms
+ 8  72.14.203.32 (72.14.203.32)  38.376 ms  34.501 ms  38.539 ms
+ 9  108.170.245.65 (108.170.245.65)  71.958 ms 108.170.245.81 (108.170.245.81)  76.107 ms  76.169 ms
+10  216.239.42.21 (216.239.42.21)  74.939 ms 216.239.42.23 (216.239.42.23)  74.628 ms  78.117 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  78.484 ms  71.609 ms  78.363 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.720 ms 147.52.206.50 (147.52.206.50)  0.904 ms 147.52.206.51 (147.52.206.51)  1.170 ms
+ 2  147.52.2.4 (147.52.2.4)  1.183 ms  1.168 ms 147.52.2.6 (147.52.2.6)  0.907 ms
+ 3  10.78.140.1 (10.78.140.1)  1.446 ms  1.464 ms  1.595 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.944 ms  8.074 ms  8.087 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.944 ms  8.750 ms  8.771 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.834 ms  38.665 ms  38.754 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.084 ms  38.058 ms  34.007 ms
+ 8  72.14.203.32 (72.14.203.32)  38.076 ms  38.077 ms  38.058 ms
+ 9  108.170.245.81 (108.170.245.81)  72.445 ms 108.170.245.65 (108.170.245.65)  72.613 ms 108.170.245.81 (108.170.245.81)  75.731 ms
+10  216.239.42.21 (216.239.42.21)  78.911 ms 216.239.42.23 (216.239.42.23)  74.108 ms  78.239 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.556 ms  78.178 ms  78.083 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.988 ms *  1.068 ms
+ 2  147.52.2.4 (147.52.2.4)  1.117 ms 147.52.2.6 (147.52.2.6)  0.845 ms  1.019 ms
+ 3  10.78.140.1 (10.78.140.1)  1.553 ms  1.646 ms  1.453 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.201 ms  8.005 ms  8.157 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.052 ms  9.013 ms  8.937 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.118 ms  37.916 ms  37.931 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.858 ms  37.950 ms  34.270 ms
+ 8  72.14.203.32 (72.14.203.32)  34.302 ms  34.550 ms  38.568 ms
+ 9  108.170.245.65 (108.170.245.65)  71.934 ms  72.598 ms  72.594 ms
+10  216.239.42.21 (216.239.42.21)  78.945 ms  78.955 ms  78.895 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.433 ms  78.337 ms  78.258 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  147.52.2.6 (147.52.2.6)  0.895 ms 147.52.2.4 (147.52.2.4)  1.009 ms  1.171 ms
+ 3  10.78.140.1 (10.78.140.1)  1.656 ms  1.612 ms  1.820 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.985 ms  8.008 ms  8.132 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.104 ms  9.084 ms  9.002 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.007 ms  39.123 ms  37.984 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  33.914 ms  38.051 ms  37.949 ms
+ 8  72.14.203.32 (72.14.203.32)  34.356 ms  38.586 ms  34.480 ms
+ 9  108.170.245.65 (108.170.245.65)  76.279 ms  76.161 ms  76.095 ms
+10  216.239.42.21 (216.239.42.21)  74.836 ms 216.239.42.23 (216.239.42.23)  78.233 ms  73.905 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  71.323 ms  78.473 ms  71.384 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  1.151 ms  1.122 ms  1.068 ms
+ 2  147.52.2.6 (147.52.2.6)  0.949 ms 147.52.2.4 (147.52.2.4)  1.126 ms  1.108 ms
+ 3  10.78.140.1 (10.78.140.1)  1.457 ms  1.554 ms  1.658 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.157 ms  8.177 ms  8.159 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.972 ms  8.951 ms  8.833 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  37.932 ms  38.200 ms  38.052 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  40.837 ms  34.151 ms  37.942 ms
+ 8  72.14.203.32 (72.14.203.32)  38.709 ms  38.615 ms  38.685 ms
+ 9  108.170.245.81 (108.170.245.81)  75.697 ms  75.710 ms  75.841 ms
+10  216.239.42.21 (216.239.42.21)  78.539 ms  74.386 ms 216.239.42.23 (216.239.42.23)  77.993 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.601 ms  74.252 ms  75.400 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.981 ms  1.216 ms 147.52.206.50 (147.52.206.50)  0.891 ms
+ 2  147.52.2.4 (147.52.2.4)  1.188 ms  1.169 ms 147.52.2.6 (147.52.2.6)  0.927 ms
+ 3  10.78.140.1 (10.78.140.1)  1.720 ms  1.823 ms  1.927 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.196 ms  8.217 ms  8.197 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.123 ms  9.178 ms  9.108 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.759 ms  41.170 ms  41.152 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.874 ms  33.761 ms  37.939 ms
+ 8  72.14.203.32 (72.14.203.32)  38.399 ms  38.558 ms  34.581 ms
+ 9  108.170.245.65 (108.170.245.65)  75.854 ms  75.869 ms  75.854 ms
+10  216.239.42.21 (216.239.42.21)  79.020 ms 216.239.42.23 (216.239.42.23)  77.957 ms 216.239.42.21 (216.239.42.21)  74.789 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  71.502 ms  75.326 ms  75.385 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  * 147.52.206.50 (147.52.206.50)  0.872 ms *
+ 2  147.52.2.4 (147.52.2.4)  1.168 ms 147.52.2.6 (147.52.2.6)  0.918 ms 147.52.2.4 (147.52.2.4)  1.121 ms
+ 3  10.78.140.1 (10.78.140.1)  1.590 ms  1.719 ms  1.736 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.016 ms  8.191 ms  8.103 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.830 ms  8.821 ms  8.811 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.180 ms  38.389 ms  38.288 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.159 ms  34.151 ms  33.856 ms
+ 8  72.14.203.32 (72.14.203.32)  38.468 ms  38.619 ms  38.627 ms
+ 9  108.170.245.81 (108.170.245.81)  71.961 ms 108.170.245.65 (108.170.245.65)  75.866 ms  75.762 ms
+10  216.239.42.23 (216.239.42.23)  78.065 ms 216.239.42.21 (216.239.42.21)  79.077 ms 216.239.42.23 (216.239.42.23)  78.041 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  71.447 ms  78.156 ms  74.444 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.899 ms 147.52.206.50 (147.52.206.50)  3.356 ms  3.380 ms
+ 2  147.52.2.6 (147.52.2.6)  0.991 ms  1.011 ms  1.031 ms
+ 3  10.78.140.1 (10.78.140.1)  1.437 ms  1.604 ms  1.720 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.043 ms  8.709 ms  8.754 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.906 ms  9.024 ms  8.789 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  39.176 ms  38.126 ms  38.089 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  33.953 ms  33.946 ms  37.856 ms
+ 8  72.14.203.32 (72.14.203.32)  37.974 ms  37.883 ms  34.218 ms
+ 9  108.170.245.81 (108.170.245.81)  75.964 ms 108.170.245.65 (108.170.245.65)  72.152 ms 108.170.245.81 (108.170.245.81)  75.610 ms
+10  216.239.42.23 (216.239.42.23)  73.890 ms 216.239.42.21 (216.239.42.21)  74.389 ms 216.239.42.23 (216.239.42.23)  78.202 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  78.419 ms  75.361 ms  75.382 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.985 ms  1.272 ms 147.52.206.50 (147.52.206.50)  0.793 ms
+ 2  147.52.2.6 (147.52.2.6)  0.870 ms 147.52.2.4 (147.52.2.4)  1.130 ms 147.52.2.6 (147.52.2.6)  1.057 ms
+ 3  10.78.140.1 (10.78.140.1)  2.525 ms  2.315 ms  2.352 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.055 ms  8.103 ms  8.112 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  10.180 ms  8.835 ms  8.878 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.025 ms  38.175 ms  38.064 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  33.920 ms  47.629 ms  47.683 ms
+ 8  72.14.203.32 (72.14.203.32)  38.102 ms  34.142 ms  34.386 ms
+ 9  108.170.245.65 (108.170.245.65)  75.731 ms  76.161 ms  72.013 ms
+10  216.239.42.21 (216.239.42.21)  78.327 ms 216.239.42.23 (216.239.42.23)  78.022 ms 216.239.42.21 (216.239.42.21)  78.307 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.376 ms  71.490 ms  78.322 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.998 ms 147.52.206.51 (147.52.206.51)  0.872 ms  0.886 ms
+ 2  147.52.2.4 (147.52.2.4)  1.319 ms  1.322 ms 147.52.2.6 (147.52.2.6)  0.825 ms
+ 3  10.78.140.1 (10.78.140.1)  1.566 ms  1.722 ms  1.523 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.305 ms  8.263 ms  8.193 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.213 ms  9.236 ms  9.988 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.277 ms  40.963 ms  40.219 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  40.254 ms  40.503 ms  39.450 ms
+ 8  72.14.203.32 (72.14.203.32)  39.289 ms  39.312 ms  34.365 ms
+ 9  108.170.245.65 (108.170.245.65)  77.006 ms  76.710 ms  72.890 ms
+10  216.239.42.21 (216.239.42.21)  74.746 ms  78.688 ms 216.239.42.23 (216.239.42.23)  78.143 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  78.184 ms  76.021 ms  74.515 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.809 ms  1.172 ms  1.178 ms
+ 2  147.52.2.4 (147.52.2.4)  1.176 ms 147.52.2.6 (147.52.2.6)  0.881 ms 147.52.2.4 (147.52.2.4)  1.114 ms
+ 3  10.78.140.1 (10.78.140.1)  1.488 ms  1.602 ms  1.720 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.063 ms  7.972 ms  7.985 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.954 ms  8.748 ms  8.922 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.303 ms  38.287 ms  39.013 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.934 ms  34.002 ms  37.829 ms
+ 8  72.14.203.32 (72.14.203.32)  39.421 ms  39.379 ms  38.572 ms
+ 9  108.170.245.65 (108.170.245.65)  75.981 ms  75.959 ms  72.179 ms
+10  216.239.42.21 (216.239.42.21)  74.422 ms 216.239.42.23 (216.239.42.23)  77.913 ms 216.239.42.21 (216.239.42.21)  78.504 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.467 ms  75.487 ms  71.344 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.739 ms 147.52.206.50 (147.52.206.50)  1.223 ms 147.52.206.51 (147.52.206.51)  1.242 ms
+ 2  147.52.2.6 (147.52.2.6)  1.003 ms 147.52.2.4 (147.52.2.4)  1.065 ms 147.52.2.6 (147.52.2.6)  1.043 ms
+ 3  10.78.140.1 (10.78.140.1)  1.536 ms  1.597 ms  1.814 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.297 ms  8.999 ms  8.226 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.998 ms  9.965 ms  9.932 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.048 ms  38.531 ms  37.996 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.881 ms  33.837 ms  38.013 ms
+ 8  72.14.203.32 (72.14.203.32)  47.898 ms  34.767 ms  47.742 ms
+ 9  108.170.245.81 (108.170.245.81)  78.945 ms  72.012 ms  75.589 ms
+10  216.239.42.21 (216.239.42.21)  78.814 ms  78.832 ms 216.239.42.23 (216.239.42.23)  74.155 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  74.329 ms  71.381 ms  74.306 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.819 ms  1.248 ms  1.273 ms
+ 2  147.52.2.4 (147.52.2.4)  3.216 ms  3.201 ms 147.52.2.6 (147.52.2.6)  3.069 ms
+ 3  10.78.140.1 (10.78.140.1)  1.691 ms  1.374 ms  1.466 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.186 ms  8.078 ms  8.143 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.987 ms  8.988 ms  8.868 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.063 ms  38.045 ms  38.046 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.514 ms  37.992 ms  33.899 ms
+ 8  72.14.203.32 (72.14.203.32)  33.962 ms  34.030 ms  38.207 ms
+ 9  108.170.245.81 (108.170.245.81)  71.779 ms 108.170.245.65 (108.170.245.65)  72.755 ms  76.435 ms
+10  216.239.42.23 (216.239.42.23)  78.077 ms  74.340 ms  78.013 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  71.658 ms  71.413 ms  78.394 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.866 ms 147.52.206.51 (147.52.206.51)  0.856 ms  1.200 ms
+ 2  147.52.2.4 (147.52.2.4)  1.194 ms  1.209 ms 147.52.2.6 (147.52.2.6)  0.903 ms
+ 3  10.78.140.1 (10.78.140.1)  1.461 ms  1.605 ms  1.339 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.281 ms  8.276 ms  8.158 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.001 ms  8.918 ms  8.951 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  37.982 ms  38.223 ms  38.046 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.020 ms  34.059 ms  33.950 ms
+ 8  72.14.203.32 (72.14.203.32)  33.862 ms  33.923 ms  34.313 ms
+ 9  108.170.245.65 (108.170.245.65)  78.872 ms  73.048 ms  78.505 ms
+10  216.239.42.23 (216.239.42.23)  74.206 ms 216.239.42.21 (216.239.42.21)  78.430 ms  78.399 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  78.339 ms  74.368 ms  78.382 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.890 ms 147.52.206.51 (147.52.206.51)  0.756 ms  1.940 ms
+ 2  147.52.2.4 (147.52.2.4)  1.116 ms  1.137 ms 147.52.2.6 (147.52.2.6)  0.920 ms
+ 3  10.78.140.1 (10.78.140.1)  1.278 ms  1.269 ms  1.479 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.153 ms  8.206 ms  8.156 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.836 ms  8.879 ms  8.840 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.202 ms  38.177 ms  38.171 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.219 ms  38.986 ms  38.921 ms
+ 8  72.14.203.32 (72.14.203.32)  39.383 ms  39.291 ms  38.367 ms
+ 9  108.170.245.81 (108.170.245.81)  72.213 ms 108.170.245.65 (108.170.245.65)  76.835 ms 108.170.245.81 (108.170.245.81)  76.088 ms
+10  216.239.42.23 (216.239.42.23)  77.961 ms 216.239.42.21 (216.239.42.21)  78.360 ms  74.441 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  78.133 ms  75.633 ms  78.732 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.936 ms 147.52.206.51 (147.52.206.51)  0.874 ms 147.52.206.50 (147.52.206.50)  1.050 ms
+ 2  147.52.2.6 (147.52.2.6)  0.956 ms 147.52.2.4 (147.52.2.4)  1.118 ms 147.52.2.6 (147.52.2.6)  1.040 ms
+ 3  10.78.140.1 (10.78.140.1)  1.430 ms  1.595 ms  1.516 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.109 ms  8.021 ms  8.062 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.186 ms  9.144 ms  9.070 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.189 ms  37.875 ms  38.425 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  33.734 ms  37.907 ms  37.939 ms
+ 8  72.14.203.32 (72.14.203.32)  38.608 ms  34.361 ms  38.531 ms
+ 9  108.170.245.65 (108.170.245.65)  76.561 ms  76.481 ms 108.170.245.81 (108.170.245.81)  75.803 ms
+10  216.239.42.23 (216.239.42.23)  77.885 ms  78.139 ms  74.084 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.308 ms  75.411 ms  71.357 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.914 ms 147.52.206.51 (147.52.206.51)  2.482 ms 147.52.206.50 (147.52.206.50)  1.098 ms
+ 2  147.52.2.6 (147.52.2.6)  0.834 ms  1.096 ms 147.52.2.4 (147.52.2.4)  1.183 ms
+ 3  10.78.140.1 (10.78.140.1)  1.343 ms  1.497 ms  1.417 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.312 ms  7.967 ms  7.988 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.570 ms  9.562 ms  9.463 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.155 ms  38.276 ms  38.221 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.817 ms  37.807 ms  33.744 ms
+ 8  72.14.203.32 (72.14.203.32)  39.453 ms  38.479 ms  38.481 ms
+ 9  108.170.245.65 (108.170.245.65)  71.869 ms  76.115 ms  76.017 ms
+10  216.239.42.21 (216.239.42.21)  78.262 ms  78.265 ms  74.212 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  74.389 ms  75.559 ms  78.451 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  2.250 ms 147.52.206.51 (147.52.206.51)  0.768 ms  0.788 ms
+ 2  147.52.2.6 (147.52.2.6)  0.900 ms 147.52.2.4 (147.52.2.4)  1.042 ms  1.201 ms
+ 3  10.78.140.1 (10.78.140.1)  1.505 ms  1.645 ms  1.298 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.238 ms  8.006 ms  8.208 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.862 ms  8.780 ms  8.976 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.122 ms  38.587 ms  37.922 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.014 ms  37.921 ms  34.035 ms
+ 8  72.14.203.32 (72.14.203.32)  38.521 ms  95.816 ms  95.723 ms
+ 9  108.170.245.65 (108.170.245.65)  71.739 ms 108.170.245.81 (108.170.245.81)  75.994 ms  71.784 ms
+10  216.239.42.21 (216.239.42.21)  78.470 ms 216.239.42.23 (216.239.42.23)  74.002 ms  78.122 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  74.192 ms  75.653 ms  75.525 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.914 ms 147.52.206.50 (147.52.206.50)  0.802 ms  1.254 ms
+ 2  147.52.2.4 (147.52.2.4)  1.145 ms 147.52.2.6 (147.52.2.6)  0.887 ms 147.52.2.4 (147.52.2.4)  1.136 ms
+ 3  10.78.140.1 (10.78.140.1)  1.561 ms  1.590 ms  1.361 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.936 ms  8.055 ms  7.923 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.779 ms  8.811 ms  8.893 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.128 ms  37.983 ms  38.047 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.257 ms  38.181 ms  34.075 ms
+ 8  72.14.203.32 (72.14.203.32)  39.823 ms  38.582 ms  39.727 ms
+ 9  108.170.245.65 (108.170.245.65)  72.107 ms 108.170.245.81 (108.170.245.81)  75.950 ms  72.070 ms
+10  216.239.42.21 (216.239.42.21)  78.507 ms 216.239.42.23 (216.239.42.23)  78.290 ms 216.239.42.21 (216.239.42.21)  78.571 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  78.337 ms  75.498 ms  78.519 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.837 ms  1.181 ms 147.52.206.50 (147.52.206.50)  0.959 ms
+ 2  147.52.2.4 (147.52.2.4)  1.894 ms 147.52.2.6 (147.52.2.6)  1.747 ms  1.786 ms
+ 3  10.78.140.1 (10.78.140.1)  1.352 ms  1.404 ms  1.589 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.248 ms  8.178 ms  7.940 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.866 ms  8.888 ms  9.026 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.232 ms  38.203 ms  38.009 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.129 ms  34.019 ms  37.926 ms
+ 8  72.14.203.32 (72.14.203.32)  34.979 ms  35.014 ms  37.752 ms
+ 9  108.170.245.65 (108.170.245.65)  72.004 ms  76.036 ms  75.985 ms
+10  216.239.42.23 (216.239.42.23)  74.185 ms 216.239.42.21 (216.239.42.21)  78.202 ms 216.239.42.23 (216.239.42.23)  74.022 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  71.379 ms  74.257 ms  78.302 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.841 ms  1.207 ms 147.52.206.51 (147.52.206.51)  0.835 ms
+ 2  147.52.2.4 (147.52.2.4)  1.335 ms  1.345 ms  1.319 ms
+ 3  10.78.140.1 (10.78.140.1)  1.689 ms  1.376 ms  1.482 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.980 ms  8.070 ms  10.149 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.229 ms  9.219 ms  9.128 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.177 ms  37.958 ms  38.276 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.001 ms  37.927 ms  37.961 ms
+ 8  72.14.203.32 (72.14.203.32)  39.360 ms  38.598 ms  38.625 ms
+ 9  108.170.245.81 (108.170.245.81)  72.004 ms 108.170.245.65 (108.170.245.65)  76.097 ms 108.170.245.81 (108.170.245.81)  76.128 ms
+10  216.239.42.23 (216.239.42.23)  78.169 ms  78.198 ms 216.239.42.21 (216.239.42.21)  74.541 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.330 ms  71.634 ms  78.192 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.878 ms  1.339 ms  1.324 ms
+ 2  147.52.2.4 (147.52.2.4)  1.160 ms  1.191 ms 147.52.2.6 (147.52.2.6)  0.881 ms
+ 3  10.78.140.1 (10.78.140.1)  1.597 ms  1.427 ms  1.722 ms
+ 4  * * uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.276 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.789 ms  9.027 ms  9.033 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  41.636 ms  39.830 ms  38.108 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.320 ms  33.792 ms  38.286 ms
+ 8  72.14.203.32 (72.14.203.32)  38.195 ms  34.054 ms  37.889 ms
+ 9  108.170.245.65 (108.170.245.65)  71.932 ms 108.170.245.81 (108.170.245.81)  75.960 ms 108.170.245.65 (108.170.245.65)  75.695 ms
+10  216.239.42.21 (216.239.42.21)  78.438 ms  74.230 ms 216.239.42.23 (216.239.42.23)  74.089 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  71.321 ms  78.102 ms  78.241 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.802 ms 147.52.206.50 (147.52.206.50)  0.901 ms 147.52.206.51 (147.52.206.51)  1.202 ms
+ 2  147.52.2.6 (147.52.2.6)  0.868 ms  1.084 ms  1.081 ms
+ 3  10.78.140.1 (10.78.140.1)  1.545 ms  1.360 ms  1.597 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.101 ms  8.032 ms  8.058 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  9.050 ms  9.048 ms  9.026 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.092 ms  37.986 ms  38.089 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.275 ms  37.748 ms  33.820 ms
+ 8  72.14.203.32 (72.14.203.32)  38.383 ms  38.412 ms  38.354 ms
+ 9  108.170.245.81 (108.170.245.81)  74.967 ms  79.152 ms 108.170.245.65 (108.170.245.65)  79.130 ms
+10  216.239.42.23 (216.239.42.23)  73.892 ms  78.217 ms 216.239.42.21 (216.239.42.21)  74.392 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.500 ms  78.299 ms  71.346 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.694 ms 147.52.206.51 (147.52.206.51)  0.784 ms  1.166 ms
+ 2  147.52.2.6 (147.52.2.6)  1.068 ms  1.083 ms 147.52.2.4 (147.52.2.4)  1.201 ms
+ 3  10.78.140.1 (10.78.140.1)  1.957 ms  1.774 ms  1.947 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.191 ms  8.231 ms  8.219 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.862 ms  8.968 ms  8.982 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  37.889 ms  37.913 ms  38.230 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.006 ms  38.016 ms  34.050 ms
+ 8  72.14.203.32 (72.14.203.32)  38.389 ms  37.904 ms  33.971 ms
+ 9  108.170.245.81 (108.170.245.81)  75.124 ms 108.170.245.65 (108.170.245.65)  79.113 ms 108.170.245.81 (108.170.245.81)  78.968 ms
+10  216.239.42.23 (216.239.42.23)  74.304 ms 216.239.42.21 (216.239.42.21)  78.978 ms 216.239.42.23 (216.239.42.23)  78.301 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  71.381 ms  74.223 ms  71.548 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  4.379 ms 147.52.206.50 (147.52.206.50)  0.946 ms  0.951 ms
+ 2  147.52.2.4 (147.52.2.4)  26.488 ms 147.52.2.6 (147.52.2.6)  26.410 ms  26.438 ms
+ 3  10.78.140.1 (10.78.140.1)  1.878 ms  1.433 ms  1.654 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.163 ms  8.099 ms  8.007 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.820 ms  8.836 ms  9.019 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.149 ms  37.900 ms  38.154 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.188 ms  37.780 ms  37.830 ms
+ 8  72.14.203.32 (72.14.203.32)  37.890 ms  34.099 ms  38.102 ms
+ 9  108.170.245.81 (108.170.245.81)  74.907 ms 108.170.245.65 (108.170.245.65)  78.836 ms 108.170.245.81 (108.170.245.81)  74.699 ms
+10  216.239.42.21 (216.239.42.21)  74.343 ms  78.778 ms  74.513 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  74.406 ms  71.801 ms  75.667 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.696 ms  1.246 ms 147.52.206.51 (147.52.206.51)  0.747 ms
+ 2  147.52.2.6 (147.52.2.6)  9.085 ms  9.109 ms  9.079 ms
+ 3  10.78.140.1 (10.78.140.1)  2.206 ms  2.011 ms  2.190 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.984 ms  7.994 ms  8.161 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  10.479 ms  10.475 ms  10.375 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  37.921 ms  38.085 ms  38.003 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.039 ms  37.936 ms  37.918 ms
+ 8  72.14.203.32 (72.14.203.32)  34.526 ms  38.602 ms  38.392 ms
+ 9  108.170.245.81 (108.170.245.81)  78.986 ms  79.185 ms 108.170.245.65 (108.170.245.65)  79.989 ms
+10  216.239.42.21 (216.239.42.21)  78.600 ms  74.306 ms 216.239.42.23 (216.239.42.23)  78.236 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.349 ms  78.563 ms  75.574 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  * 147.52.206.51 (147.52.206.51)  1.357 ms *
+ 2  147.52.2.4 (147.52.2.4)  3.317 ms  3.319 ms  3.310 ms
+ 3  10.78.140.1 (10.78.140.1)  3.269 ms  3.391 ms  3.205 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.264 ms  8.444 ms  8.443 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.781 ms  8.786 ms  9.038 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.085 ms  38.135 ms  38.741 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  37.754 ms  38.034 ms  37.920 ms
+ 8  72.14.203.32 (72.14.203.32)  37.969 ms  43.156 ms  38.158 ms
+ 9  108.170.245.81 (108.170.245.81)  79.113 ms  78.981 ms 108.170.245.65 (108.170.245.65)  79.832 ms
+10  216.239.42.21 (216.239.42.21)  79.104 ms 216.239.42.23 (216.239.42.23)  78.254 ms 216.239.42.21 (216.239.42.21)  78.984 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  78.391 ms  75.540 ms  75.462 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  1.008 ms  1.175 ms  1.186 ms
+ 2  * * *
+ 3  10.78.140.1 (10.78.140.1)  1.540 ms  1.542 ms  1.669 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.002 ms  8.039 ms  7.985 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.809 ms  8.822 ms  8.809 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.052 ms  38.140 ms  38.032 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.339 ms  38.187 ms  38.239 ms
+ 8  72.14.203.32 (72.14.203.32)  38.167 ms  37.867 ms  38.561 ms
+ 9  108.170.245.65 (108.170.245.65)  79.429 ms 108.170.245.81 (108.170.245.81)  79.095 ms 108.170.245.65 (108.170.245.65)  75.882 ms
+10  216.239.42.23 (216.239.42.23)  78.251 ms 216.239.42.21 (216.239.42.21)  78.284 ms 216.239.42.23 (216.239.42.23)  77.987 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  75.440 ms  78.430 ms  71.470 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  0.936 ms 147.52.206.51 (147.52.206.51)  0.915 ms  1.281 ms
+ 2  147.52.2.6 (147.52.2.6)  1.047 ms  1.051 ms 147.52.2.4 (147.52.2.4)  1.213 ms
+ 3  10.78.140.1 (10.78.140.1)  1.332 ms  1.341 ms  1.556 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  7.949 ms  8.647 ms  7.928 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  10.168 ms  10.186 ms  10.189 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  37.995 ms  38.122 ms  38.004 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.207 ms  38.010 ms  37.978 ms
+ 8  72.14.203.32 (72.14.203.32)  37.927 ms  34.161 ms  38.427 ms
+ 9  108.170.245.81 (108.170.245.81)  79.288 ms  79.361 ms 108.170.245.65 (108.170.245.65)  79.480 ms
+10  216.239.42.23 (216.239.42.23)  78.086 ms  77.994 ms 216.239.42.21 (216.239.42.21)  78.429 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  74.330 ms  75.445 ms  75.553 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.51 (147.52.206.51)  0.826 ms 147.52.206.50 (147.52.206.50)  0.859 ms 147.52.206.51 (147.52.206.51)  1.125 ms
+ 2  147.52.2.6 (147.52.2.6)  0.966 ms  1.018 ms 147.52.2.4 (147.52.2.4)  1.211 ms
+ 3  10.78.140.1 (10.78.140.1)  1.529 ms  1.635 ms  1.790 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.077 ms  7.981 ms  7.930 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.829 ms  8.840 ms  8.910 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  38.151 ms  38.206 ms  38.124 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  34.070 ms  33.915 ms  39.349 ms
+ 8  72.14.203.32 (72.14.203.32)  38.822 ms  38.518 ms  38.464 ms
+ 9  108.170.245.65 (108.170.245.65)  75.567 ms 108.170.245.81 (108.170.245.81)  78.873 ms  78.894 ms
+10  216.239.42.21 (216.239.42.21)  78.419 ms  78.390 ms  78.392 ms
+11  mil04s28-in-f4.1e100.net (216.58.205.164)  75.587 ms  75.388 ms  74.078 ms
+traceroute to www.google.com (216.58.205.164), 30 hops max, 60 byte packets
+ 1  147.52.206.50 (147.52.206.50)  1.024 ms 147.52.206.51 (147.52.206.51)  1.011 ms  1.013 ms
+ 2  147.52.2.6 (147.52.2.6)  1.011 ms 147.52.2.4 (147.52.2.4)  1.256 ms  1.263 ms
+ 3  10.78.140.1 (10.78.140.1)  5.585 ms  5.400 ms  5.546 ms
+ 4  uoc-voutes-3-gw.kolettir.access-link.grnet.gr (62.217.96.226)  8.159 ms  8.054 ms  8.066 ms
+ 5  grnet-ias-geant-gw.mx1.ath2.gr.geant.net (83.97.88.65)  8.796 ms  8.813 ms  8.821 ms
+ 6  ae0.mx2.ath.gr.geant.net (62.40.98.140)  37.904 ms  37.923 ms  38.120 ms
+ 7  ae2.mx1.mil2.it.geant.net (62.40.98.150)  38.032 ms  33.947 ms  37.905 ms
+ 8  72.14.203.32 (72.14.203.32)  33.935 ms  37.859 ms  38.029 ms
+ 9  108.170.245.81 (108.170.245.81)  75.019 ms  78.746 ms 108.170.245.65 (108.170.245.65)  75.142 ms
+10  216.239.42.21 (216.239.42.21)  74.731 ms 216.239.42.23 (216.239.42.23)  77.987 ms 216.239.42.21 (216.239.42.21)  78.872 ms
+11  mil04s28-in-f164.1e100.net (216.58.205.164)  74.113 ms  75.551 ms  71.359 ms

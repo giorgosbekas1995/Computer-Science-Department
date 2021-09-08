@@ -1,0 +1,108 @@
+import os
+import sys 
+import getopt 
+import subprocess 
+import socket 
+import time 
+import threading 
+import thread
+
+end_servers = sys.argv[2]
+relay_nodes = sys.argv[4]
+Tracefile = open("trace.txt","a")
+Pingfile = open("ping.txt","a")
+
+print("Give alias:")
+alias = sys.stdin.readline()
+relay_node = raw_input("Give relay node ")
+pings = int(input("Give me ping "))
+cport = int(input("Give me port "))
+
+with open(end_servers) as fp:
+    line = fp.readline().split(', ')
+    while line:
+    	    if line[-1]=='':
+    		    break
+	    
+            if line[-1] == alias:
+                alias=line[0]
+                break
+            
+            line =  fp.readline().split(', ')
+            
+
+with open(relay_nodes) as x:
+    line = x.readline().split(', ')
+    while line:
+    	    if line[-1]=='':
+    		    break
+	    
+            if line[0] == relay_node:
+                relay_node=line[1]
+                break
+            
+            line =  x.readline().split(', ')
+
+
+p1 = subprocess.Popen(['ping',alias,'-c '+str(pings)], stdout=subprocess.PIPE)
+
+
+while True:
+    line2 = p1.stdout.readline()
+    Pingfile.write(str(line2))
+    print line2
+    if not line2:
+        break
+ 
+Pingfile.close()
+##from subprocess import Popen, PIPE
+##p = Popen(["tracert", str(alias)],stdout=PIPE)
+##while True:
+##    line = p.stdout.readline()
+##    Tracefile.write(str(line))
+##    print line
+##    if not line:
+##        break
+    # Do stuff with line
+##Tracefile.close()
+
+
+
+
+def client(relayip,port):
+
+    RECV_BUFFER_SIZE = 1024 
+    # Create a TCP/IP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    
+    # Connect the socket to the port where the server is listening
+    server_address = (relayip, int(port))
+    print >>sys.stderr, 'connecting to %s port %s' % server_address
+    sock.connect(server_address)
+    
+    try:
+    # Send data
+        ping = subprocess.Popen(['ping',relay_node,'-c '+str(pings)], stdout=subprocess.PIPE)
+        while True:
+            line2 = ping.stdout.readline()
+            print line2
+            if not line2:
+                break
+        message = "send"
+        print >>sys.stderr, 'sending "%s"' % message
+        sock.sendall(message)
+    
+    # Look for the response
+        amount_received = 0
+        amount_expected = len(message)
+    
+        while amount_received < amount_expected:
+            data = sock.recv(RECV_BUFFER_SIZE)
+            amount_received += len(data)
+            print >>sys.stderr, 'received "%s"' % data
+
+    finally:
+        print >>sys.stderr, 'closing socket'
+        sock.close()
+
+client(relay_node,cport)
