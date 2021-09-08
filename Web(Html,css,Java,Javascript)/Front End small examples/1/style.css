@@ -1,0 +1,100 @@
+
+
+/**/.para{
+  position: relative;
+ height:25%;
+  text-align: center;
+  background-color: white;
+}
+
+
+
+/**/.UniversiryLibrary{
+  position: relative;
+padding-left:30px;
+  padding-right:30px;
+}
+
+.AlignCenter{
+  width:49%;
+  height:25%;
+  text-align: center;
+  background-color: white;
+  opacity: 0.8;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/**/.Iconpos{
+  position: relative;
+width:49%;
+  height:25%;
+  text-align: center;
+}
+
+
+.LUBimg{
+  position: relative;
+ text-align: center;
+color: black;
+}
+
+.isize{
+  width:50%;
+  height:50%;
+}
+
+
+/**/.KeySearch{
+  position: relative;
+position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+
+.isize2{
+  width:90%;
+  height:90%;
+}
+
+
+.center_align{
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+
+/**/.KeySearch{
+  position: relative;
+position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.ButtonSearch{
+  background-color:#b30000;
+  color:white;
+
+}
+
+/**/.ImageSize{
+  position: relative;
+height:25%;
+  text-align: center;
+}
+
+
+.Sameline{
+  display:inline-block;
+  align-items: 
+}
+
+.Space{
+  padding-left:30px;
+  padding-right:30px;
+

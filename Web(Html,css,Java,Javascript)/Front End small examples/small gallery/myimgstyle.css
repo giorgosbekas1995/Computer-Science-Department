@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+ 
+
+html, body, div, img, h2{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #00ffff;
+}
+
+
+ h2 {
+ 	background: #ffebcd;
+	border:1px solid #000000;
+	color: green;
+	text-align: center;
+	font-size: auto;
+}
+
+.imgstyle img{
+	float: left;
+	margin: 2px;
+	padding: 2px;
+	border: 1px solid #000000;
+}
+
+.imgstyle img:hover {
+	border: 1px solid #fff;
+}
