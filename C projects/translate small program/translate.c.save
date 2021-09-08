@@ -1,0 +1,96 @@
+#include <stdio.h>
+
+#define quote 39
+
+char cmap[255][3];
+
+void init_cmap(){
+	cmap[193][0]=65;
+	cmap[194][0]=86;
+	cmap[195][0]=71;
+	cmap[196][0]=68;
+	cmap[197][0]=69;
+	cmap[198][0]=90;
+	cmap[199][0]=72;
+	cmap[200][0]=56;
+	cmap[201][0]=73;
+	cmap[202][0]=75;
+	cmap[203][0]=76;
+	cmap[204][0]=77;
+	cmap[205][0]=78;
+	cmap[206][0]=75; cmap[206][1]=83;
+	cmap[207][0]=79;
+	cmap[208][0]=80;
+	cmap[209][0]=82;
+	cmap[211][0]=83;
+	cmap[212][0]=84;
+	cmap[213][0]=89;
+	cmap[214][0]=70;
+	cmap[215][0]=88;
+	cmap[216][0]=80; cmap[216][1]=83;
+	cmap[217][0]=87;
+	cmap[225][0]=97;
+	cmap[226][0]=118;
+	cmap[227][0]=103;
+	cmap[228][0]=100;
+	cmap[229][0]=101;
+	cmap[230][0]=122;
+	cmap[231][0]=104;
+	cmap[232][0]=56;
+	cmap[233][0]=105;
+	cmap[234][0]=107;
+	cmap[235][0]=108;
+	cmap[236][0]=109;
+	cmap[237][0]=110;
+	cmap[239][0]=111;
+	cmap[240][0]=112;
+	cmap[241][0]=114;
+	cmap[242][0]=115;
+	cmap[243][0]=115;
+	cmap[244][0]=116;
+	cmap[245][0]=121;
+	cmap[246][0]=102;
+	cmap[247][0]=120;
+	cmap[248][0]=112; cmap[248][1]=115;
+	cmap[249][0]=119;
+	cmap[182][0]=161; cmap[182][1]=65;
+	cmap[183][0]=quote; cmap[183][1]=69;
+	cmap[185][0]=quote; cmap[185][1]=72;
+	cmap[186][0]=quote; cmap[186][1]=73;
+	cmap[188][0]=quote; cmap[188][1]=79;
+	cmap[191][0]=quote; cmap[191][1]=87;
+	cmap[190][0]=quote; cmap[191][1]=89;
+	cmap[220][0]=97; cmap[220][1]=162;
+	cmap[221][0]=101; cmap[221][1]=quote;
+	cmap[222][0]=104; cmap[222][1]=quote;
+	cmap[223][0]=105; cmap[223][1]=quote;
+	cmap[252][0]=111; cmap[252][1]=quote;
+	cmap[253][0]=121; cmap[253][1]=quote;
+	cmap[254][0]=119; cmap[254][1]=quote;
+}
+
+
+int main(){
+
+ init_cmap();
+
+	int c;
+		while((c=getchar())!=EOF){
+		int i=0;
+	 while(cmap[c][i]!=NULL && i<3){
+                        putchar(cmap[c][i]);
+
+                i++;
+                }
+	while(cmap[c][i]!=NULL && i<3){
+			putchar(cmap[c][i]);
+
+		i++;
+		}
+		 if(cmap[c][i] == NULL){
+			putchar(c);
+			}
+	}
+
+
+}
