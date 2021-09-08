@@ -1,0 +1,55 @@
+   0x8048aac <readString>:      push   %ebp    
+   0x8048aad <readString+1>:    mov    %esp,%ebp  # char buf[BUFSIZE];
+   0x8048aaf <readString+3>:    sub    $0x34,%esp # int i=0;
+   0x8048ab2 <readString+6>:    movl   $0x0,-0x4(%ebp) #int c;
+   0x8048ab9 <readString+13>:   mov    0x80d4b44,%eax #start while
+   0x8048abe <readString+18>:   push   %eax 
+   0x8048abf <readString+19>:   call   0x8050850 <getc> #c=fgetc(stdin);
+   0x8048ac4 <readString+24>:   add    $0x4,%esp
+   0x8048ac7 <readString+27>:   mov    %eax,-0x8(%ebp)
+   0x8048aca <readString+30>:   cmpl   $0xffffffff,-0x8(%ebp)#compare if c==EOF
+   0x8048ace <readString+34>:   je     0x8048ae8 <readString+60>#if c==EOF exit
+   0x8048ad0 <readString+36>:   cmpl   $0xa,-0x8(%ebp)#compare if c == '\n'
+   0x8048ad4 <readString+40>:   je     0x8048ae8 <readString+60>#if c=='\n' exit
+   0x8048ad6 <readString+42>:   mov    -0x4(%ebp),%eax #-----------
+   0x8048ad9 <readString+45>:   lea    0x1(%eax),%edx  #     
+   0x8048adc <readString+48>:   mov    %edx,-0x4(%ebp) # s[i]= buff[i];
+   0x8048adf <readString+51>:   mov    -0x8(%ebp),%edx #     
+   0x8048ae2 <readString+54>:   mov    %dl,-0x34(%ebp,%eax,1)#----------
+   0x8048ae6 <readString+58>:   jmp    0x8048ab9 <readString+13>#start over the while loop
+   0x8048ae8 <readString+60>:   lea    -0x34(%ebp),%edx#-------
+   0x8048aeb <readString+63>:   mov    -0x4(%ebp),%eax
+   0x8048aee <readString+66>:   add    %edx,%eax #buf[i]=0;
+   0x8048af0 <readString+68>:   movb   $0x0,(%eax) # for loop start
+   0x8048af3 <readString+71>:   movl   $0x0,-0x4(%ebp)
+   0x8048afa <readString+78>:   jmp    0x8048b15 <readString+105># go in 105 and compare if i<buffsize
+   0x8048afc <readString+80>:   mov    -0x4(%ebp),%edx#-------------
+   0x8048aff <readString+83>:   mov    0x8(%ebp),%eax
+   0x8048b02 <readString+86>:   add    %eax,%edx
+   0x8048b04 <readString+88>:   lea    -0x34(%ebp),%ecx #s[i] = buf[i];
+   0x8048b07 <readString+91>:   mov    -0x4(%ebp),%eax
+   0x8048b0a <readString+94>:   add    %ecx,%eax
+   0x8048b0c <readString+96>:   movzbl (%eax),%eax
+   0x8048b0f <readString+99>:   mov    %al,(%edx)#---------------
+   0x8048b11 <readString+101>:  addl   $0x1,-0x4(%ebp)#i++;
+   0x8048b15 <readString+105>:  cmpl   $0x2b,-0x4(%ebp)# if i<buffsize exit else go to 80 and repeat
+   0x8048b19 <readString+109>:  jle    0x8048afc <readString+80>
+   0x8048b1b <readString+111>:  nop
+   0x8048b1c <readString+112>:  leave
+   0x8048b1d <readString+113>:  ret #return
+
+
+data section
+
+print &grade : 0x80d46e8 <grade> "3"
+
+print grade : 51 '3'
+print &Name : 0x80d65e0
+
+bss section
+
+print $esp = 0xbffff598
+print $ebp = 0xbffff5cc
+
+
+
